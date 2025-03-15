@@ -1,0 +1,7 @@
+*.swp
+*.swo
+
+act.sh
+
+.ci_scripts
+.debs
