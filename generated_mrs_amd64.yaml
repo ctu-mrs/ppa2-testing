@@ -1,0 +1,12 @@
+mrs_msgs:
+    ubuntu: [ros-jazzy-mrs-msgs]
+  
+mrs_lib:
+    ubuntu: [ros-jazzy-mrs-lib]
+  
+mrs_uav_hw_api:
+    ubuntu: [ros-jazzy-mrs-uav-hw-api]
+  
+mrs_multirotor_simulator:
+    ubuntu: [ros-jazzy-mrs-multirotor-simulator]
+  
