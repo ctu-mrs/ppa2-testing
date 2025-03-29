@@ -1,6 +1,9 @@
 mrs_msgs:
     ubuntu: [ros-jazzy-mrs-msgs]
   
+mrs_mpc_solvers:
+    ubuntu: [ros-jazzy-mrs-mpc-solvers]
+  
 mrs_lib:
     ubuntu: [ros-jazzy-mrs-lib]
   
@@ -9,4 +12,13 @@ mrs_uav_hw_api:
   
 mrs_multirotor_simulator:
     ubuntu: [ros-jazzy-mrs-multirotor-simulator]
+  
+mrs_uav_managers:
+    ubuntu: [ros-jazzy-mrs-uav-managers]
+  
+mrs_uav_state_estimators:
+    ubuntu: [ros-jazzy-mrs-uav-state-estimators]
+  
+mrs_uav_controllers:
+    ubuntu: [ros-jazzy-mrs-uav-controllers]
   
