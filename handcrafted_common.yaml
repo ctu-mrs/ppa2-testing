@@ -1,0 +1,25 @@
+# this file defines the list of APT dependencies for ROS packages
+#
+# ros_package_dependency:
+#   ubuntu: [apt dependencies]
+#
+
+# px4 is build using a custom script outside of the bloom pipeline
+mrs-uav-shell-additions:
+  ubuntu: [mrs-uav-shell-additions]
+
+# other dependencies
+python3-jinja2:
+  ubuntu: [python3-jinja2]
+python-is-python3:
+  ubuntu: [python-is-python3]
+tmuxinator:
+  ubuntu: [tmuxinator]
+moreutils:
+  ubuntu: [moreutils]
+libgbm-dev:
+  ubuntu: [libgbm-dev]
+aptitude:
+  ubuntu: [aptitude]
+gdb:
+  ubuntu: [gdb]
