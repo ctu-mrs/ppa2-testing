@@ -8,6 +8,9 @@
 mrs-uav-shell-additions:
   ubuntu: [mrs-uav-shell-additions]
 
+mrs-mpc-solvers:
+  ubuntu: [ros-jazzy-mrs-mpc-solvers]
+
 # other dependencies
 python3-jinja2:
   ubuntu: [python3-jinja2]
