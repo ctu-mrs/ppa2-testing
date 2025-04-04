@@ -8,7 +8,7 @@
 mrs-uav-shell-additions:
   ubuntu: [mrs-uav-shell-additions]
 
-mrs-mpc-solvers:
+mrs_mpc_solvers:
   ubuntu: [ros-jazzy-mrs-mpc-solvers]
 
 # other dependencies
