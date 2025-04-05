@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sat, 05 Apr 2025 12:25:29 +0000
+Label: testing
+Origin: ctu-mrs
+MD5Sum:
+ c4b5ddbe9495258e100528967e19ade7            14752 Packages
+ cca4b82889084ac6f79b2c2a1a48ecf8             3395 Packages.gz
+ 00e162d8a3dda99954c7483db03e3431               69 Release
+SHA1:
+ cbb2e3d629028013adf66fb1864f766c26dd0eec            14752 Packages
+ 4a66eac50d1a330bae41e44adadf316984a98ac2             3395 Packages.gz
+ 364232fa1d61d326fdcaba45979c7feb824f2e08               69 Release
+SHA256:
+ f8fd804c6de1628b95047fa289fc6d9a35ab79eafc381371b6d5bb7315ed3a2d            14752 Packages
+ c9c5354c4587a291d374957e6e083ebd0ab7822968a8aba4fd099845d23241c5             3395 Packages.gz
+ afa9dc08427e4eaf0f3aaa9cad6b71c8745d2d09f75d951aec2fbe04914414b0               69 Release
+SHA512:
+ ea0d72c6fde877a1545cac0a8eb308dc62a032ba45a636275aec69f6580bca9b276eca10080624785ee99c2931911f91f805ae5942c3edce528346e348832897            14752 Packages
+ c9da1ca14a2cc457debc68a4ab0f6a0870863966aafac7cae352a5e8435e3eb8b199c018f06351418fa84a6a220adf105aa9d46a3e6c95b6a97df500ab613e2d             3395 Packages.gz
+ 1c97a0f847c17a1af505bfe8e4684f41452a748ef9d19e8deca6e59353c2bc06de5e8beb0c4dfb1d8bcd6e9812c7b882b76b96f470268b27f321e46cdf6d51c9               69 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJLBAEBCgA1FiEEb03deYxGy/GR9vy/sp02ABwZjREFAmfxITkXHHRvbWFzLmJh
+Y2FAZmVsLmN2dXQuY3oACgkQsp02ABwZjRE6VQ/+I9pQh4rDQb/31SpsOhPg7POe
+KLrbpRG/szJ1wrMlEjg0oWPn+4EcjOddBJJ/lF0sAuFRfSwoATHzPUvnz36YqieS
+6oOl1Ny7MI+QxDvrsjyOCNHN6IZZOB8MfvXU25OvhIz+RRGIOszTWAtWjkcTCFbI
+ihLUBK6EIE1jJjMkNy0RH9YZmYEEMMGpoQl3fcuycE0qIPgRkoOYAGAp+75pI/WY
+Fm8bosx7cN++BLh6XIbYRR3NTIE3XELjqv0raGPHZKFOu1jKg1HLJ/gl9CdZhRrF
+TBzqpQr/q/vsmt5ijlwYar4s0bvW4jhagIDrxSaP1ghIxLTRWZdrt+VimWwQnMCS
+/Gx7ciIya8ba4dc75zamm9ekoxgwbKz/0N+dvSLHzgit72pWhpfQJYcjb21z1k1x
+rk2x2YjuoDMK2Dyf3RlEahu+5CJRMvP+RwDUWfzE/zt/aJ2V7jlDPBy4IKMhraLW
+BSqk4gc9B+WFkqt/TACaqr1Yji5vNnpS09u3yEG1vgDb7pLZfXykYlbALHqKt6wD
+x1TtVsc9LVE/zOHPNuPWgF97c0d+m6uYovvypAEWwf2Ddxm79yDIIEZ1Cdn4J4lY
+mcw9kEojDW2daQxw+StL8kHW33xrPtWbOs6L7AAGynYmtKqYukU3aalfqrWtApK4
+9WCJLmKGkOKrtPywAUQ=
+=fFBK
+-----END PGP SIGNATURE-----
