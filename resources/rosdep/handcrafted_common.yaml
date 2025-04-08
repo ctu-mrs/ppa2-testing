@@ -8,6 +8,9 @@
 mrs-uav-shell-additions:
   ubuntu: [mrs-uav-shell-additions]
 
+mrs-geographiclib-datasets:
+  ubuntu: [mrs-geographiclib-datasets]
+
 mrs_mpc_solvers:
   ubuntu: [ros-jazzy-mrs-mpc-solvers]
 
