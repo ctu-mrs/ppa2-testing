@@ -1,0 +1,33 @@
+mrs_msgs:
+    ubuntu: [ros-jazzy-mrs-msgs]
+  
+mrs_lib:
+    ubuntu: [ros-jazzy-mrs-lib]
+  
+mrs_uav_autostart:
+    ubuntu: [ros-jazzy-mrs-uav-autostart]
+  
+mrs_uav_hw_api:
+    ubuntu: [ros-jazzy-mrs-uav-hw-api]
+  
+mrs_multirotor_simulator:
+    ubuntu: [ros-jazzy-mrs-multirotor-simulator]
+  
+mrs_uav_managers:
+    ubuntu: [ros-jazzy-mrs-uav-managers]
+  
+mrs_uav_px4_api:
+    ubuntu: [ros-jazzy-mrs-uav-px4-api]
+  
+mrs_uav_trackers:
+    ubuntu: [ros-jazzy-mrs-uav-trackers]
+  
+mrs_uav_controllers:
+    ubuntu: [ros-jazzy-mrs-uav-controllers]
+  
+mrs_uav_state_estimators:
+    ubuntu: [ros-jazzy-mrs-uav-state-estimators]
+  
+mrs_uav_core:
+    ubuntu: [ros-jazzy-mrs-uav-core]
+  
