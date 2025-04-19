@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sat, 19 Apr 2025 12:26:57 +0000
+Label: testing
+Origin: ctu-mrs
+MD5Sum:
+ eaa4afa2c0359b4ea5f23107e63223bf            17433 Packages
+ 6d2dca49cb6d5c3f967b03db106cd68e             3912 Packages.gz
+ 39205ae5ba7fe5910483db807c736dc9               69 Release
+SHA1:
+ ee284c1f36c5d5a9d56a5dfb0594c40e604a166a            17433 Packages
+ 437281614515be4a75db12bb8bd5bf964c77e0c0             3912 Packages.gz
+ f7fa01101435d68c871c4f6709244354a7b8292f               69 Release
+SHA256:
+ 31fb6952160f6f6db3a185eff7e1f69339ea6b754d4f27f723e7038653424267            17433 Packages
+ ed76b003fb2aa67c019f8a854bc9ef8618c684c7e3c404d4f9caf09ef0f39a91             3912 Packages.gz
+ 4884806eb8bca038587d5e636e8599d6fbc70cd7607fd5bf4c0e7f78282de2c0               69 Release
+SHA512:
+ 32cfff0aca582af5b60aacf1e4322bc2afda786379a257edcaad7d7433f1cecd4ecbf8d26c696ba103019522cd5da0d3553ae92596c1375d317c372644c3163a            17433 Packages
+ 72c180956b262d72ecd833362cba814970801de379f9338848069057031504f0e8539d62e2bee1edc4e474ea7cc6ab9fce4c1397c1ffdaea826ed64ee48ae59b             3912 Packages.gz
+ ec46197bfc986c9b1e6e6f0bbefebab512c561ec667dba1b99d07fdc37ff92ba83589b60165487626080b0393ff6ad9e688430bbe0ce5c39bfd3654db9b7b3af               69 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJLBAEBCgA1FiEEb03deYxGy/GR9vy/sp02ABwZjREFAmgDlpEXHHRvbWFzLmJh
+Y2FAZmVsLmN2dXQuY3oACgkQsp02ABwZjRE7+A//ajC+OcFpI+KC/ViPucpN7fjE
+Fwx6jL9LzdQmokcgtWMCWVjVJZuZmFNigbAdouhyCjYbfNs7bgzTR47oRKVfRPql
+d2V7i4zzHN6LDd6x+4GlWifcbcadsVdSwmKHgYrEn3KZjr7j+V15fUuHcLqIP1t4
+QAcj1uZ2UTs/nsxfc6kfpqA/K+fnVyYpKhsBTP/vPywdZPIoeQbROVHR0gzbxgoQ
+9LZSIJ/gLT7txIiZ7L39SV7OTURTddc/I1WxkL5DszBXUHSpQwsD6jUs7oSWqlqa
++T8vKPpZzQdMGtjvTDB8Q4zNlFT/WqPbuqoGlf0aMrKi1o7uVWxTEB2pn5ZBzCSK
+gcyZJ7umyNg77JNsyu1Ah+Z1CWniFDt0OejsXCv/F1mryoevPk/hbOXqYOsmc+ck
+7CmecRND7+9bJMYjzOk05ox1oD4kRZGMVR/StwCZj7RWVqtS9oXsmnI6ZmxBPzBc
+SM9o0ymXYGhTC4VNvoRl8YKhXJnKp+lwWSJMG5IdnJXQxRmfJ0fXjLer/l06/E+6
+jSuoJ+3QUXGeExoUeZy+xu84J7RLbP2IFaIdoqhAEApWXqz1yQXit++QW+QBe1gi
+TZJWOyuGpn6g1wcsOe/e5P3Upd80BhUQx43A8111A7wCJcJdYQOLB+9cPonQ2a7h
+nUSANIoEiwsOSOfdGMo=
+=sbTW
+-----END PGP SIGNATURE-----
