@@ -16,7 +16,4 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/ros-a
 
 sudo apt-get -y update
 
-sudo rosdep init || echo "$0: rosdep already initialized"
-rosdep update
-
 echo "$0: ROS2 PPA added"
