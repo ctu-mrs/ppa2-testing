@@ -7,7 +7,7 @@ trap 'echo "$0: \"${last_command}\" command failed with exit code $?"' ERR
 
 echo "$0: Adding MRS ROS2 Testing PPA repository"
 
-sudo apt-get -y install curl gpg dpkg-dev
+sudo apt-get -y install curl gpg dpkg-dev python3-rosdep
 
 if [ ! -f /etc/ros/rosdep/sources.list.d/20-default.list ]; then
   sudo rosdep init
