@@ -21,6 +21,8 @@ px4:
 # other dependencies
 python3-jinja2:
   ubuntu: [python3-jinja2]
+python3-av:
+  ubuntu: [python3-av]
 python-is-python3:
   ubuntu: [python-is-python3]
 tmuxinator:
