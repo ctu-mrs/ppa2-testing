@@ -1,0 +1,120 @@
+mrs_modules_msgs:
+    ubuntu: [ros-jazzy-mrs-modules-msgs]
+  
+mrs_msgs:
+    ubuntu: [ros-jazzy-mrs-msgs]
+  
+mrs_gazebo_common_resources:
+    ubuntu: [ros-jazzy-mrs-gazebo-common-resources]
+  
+flame_ros_msgs:
+    ubuntu: [ros-jazzy-flame-ros-msgs]
+  
+mrs_uav_deployment:
+    ubuntu: [ros-jazzy-mrs-uav-deployment]
+  
+mrs_lib:
+    ubuntu: [ros-jazzy-mrs-lib]
+  
+mrs_rviz_plugins:
+    ubuntu: [ros-jazzy-mrs-rviz-plugins]
+  
+mrs_octomap_server:
+    ubuntu: [ros-jazzy-mrs-octomap-server]
+  
+mrs_vins_republisher:
+    ubuntu: [ros-jazzy-mrs-vins-republisher]
+  
+mrs_uav_status:
+    ubuntu: [ros-jazzy-mrs-uav-status]
+  
+mrs_uav_testing:
+    ubuntu: [ros-jazzy-mrs-uav-testing]
+  
+mrs_vins_imu_filter:
+    ubuntu: [ros-jazzy-mrs-vins-imu-filter]
+  
+mrs_serial:
+    ubuntu: [ros-jazzy-mrs-serial]
+  
+flame_ros:
+    ubuntu: [ros-jazzy-flame-ros]
+  
+mrs_uav_autostart:
+    ubuntu: [ros-jazzy-mrs-uav-autostart]
+  
+mrs_uav_hw_api:
+    ubuntu: [ros-jazzy-mrs-uav-hw-api]
+  
+mrs_uav_trajectory_generation:
+    ubuntu: [ros-jazzy-mrs-uav-trajectory-generation]
+  
+mrs_uav_modules:
+    ubuntu: [ros-jazzy-mrs-uav-modules]
+  
+mrs_uav_managers:
+    ubuntu: [ros-jazzy-mrs-uav-managers]
+  
+mrs_multirotor_simulator:
+    ubuntu: [ros-jazzy-mrs-multirotor-simulator]
+  
+mrs_uav_px4_api:
+    ubuntu: [ros-jazzy-mrs-uav-px4-api]
+  
+mrs_uav_dji_tello_api:
+    ubuntu: [ros-jazzy-mrs-uav-dji-tello-api]
+  
+mrs_uav_controllers:
+    ubuntu: [ros-jazzy-mrs-uav-controllers]
+  
+mrs_uav_state_estimators:
+    ubuntu: [ros-jazzy-mrs-uav-state-estimators]
+  
+mrs_uav_trackers:
+    ubuntu: [ros-jazzy-mrs-uav-trackers]
+  
+mrs_uav_flightforge_simulator:
+    ubuntu: [ros-jazzy-mrs-uav-flightforge-simulator]
+  
+mrs_uav_gazebo_simulator:
+    ubuntu: [ros-jazzy-mrs-uav-gazebo-simulator]
+  
+example_sweeping_generator:
+    ubuntu: [ros-jazzy-example-sweeping-generator]
+  
+example_estimator_plugin:
+    ubuntu: [ros-jazzy-example-estimator-plugin]
+  
+example_waypoint_flier:
+    ubuntu: [ros-jazzy-example-waypoint-flier]
+  
+example_waypoint_flier_native:
+    ubuntu: [ros-jazzy-example-waypoint-flier-native]
+  
+example_tracker_plugin:
+    ubuntu: [ros-jazzy-example-tracker-plugin]
+  
+example_plugin_manager:
+    ubuntu: [ros-jazzy-example-plugin-manager]
+  
+example_controller_plugin:
+    ubuntu: [ros-jazzy-example-controller-plugin]
+  
+example_plugins:
+    ubuntu: [ros-jazzy-example-plugins]
+  
+mrs_open_vins_estimator_plugin:
+    ubuntu: [ros-jazzy-mrs-open-vins-estimator-plugin]
+  
+mrs_uav_core:
+    ubuntu: [ros-jazzy-mrs-uav-core]
+  
+mrs_open_vins_core:
+    ubuntu: [ros-jazzy-mrs-open-vins-core]
+  
+mrs_uav_system_full:
+    ubuntu: [ros-jazzy-mrs-uav-system-full]
+  
+mrs_uav_system:
+    ubuntu: [ros-jazzy-mrs-uav-system]
+  
