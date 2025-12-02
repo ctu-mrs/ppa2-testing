@@ -21,6 +21,10 @@ livox-sdk2:
 px4:
   ubuntu: [ros-jazzy-px4]
 
+# libcamera_ros is build using a custom script outside of the bloom pipeline
+libcamera_ros:
+  ubuntu: [ros-jazzy-libcamera-ros]
+
 # other dependencies
 python3-jinja2:
   ubuntu: [python3-jinja2]
