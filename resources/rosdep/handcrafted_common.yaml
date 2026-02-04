@@ -25,6 +25,10 @@ px4:
 libcamera_ros:
   ubuntu: [ros-jazzy-libcamera-ros]
 
+# glslang-tools: Provides glslangValidator to validate and compile GLSL shaders for GPU acceleration.
+glslang-tools:
+  ubuntu: [glslang-tools]
+
 # other dependencies
 python3-jinja2:
   ubuntu: [python3-jinja2]
