@@ -1,0 +1,48 @@
+# this file defines the list of APT dependencies for ROS packages
+#
+# ros_package_dependency:
+#   ubuntu: [apt dependencies]
+#
+
+# px4 is build using a custom script outside of the bloom pipeline
+mrs-uav-shell-additions:
+  ubuntu: [mrs-uav-shell-additions]
+
+mrs-geographiclib-datasets:
+  ubuntu: [mrs-geographiclib-datasets]
+
+mrs_mpc_solvers:
+  ubuntu: [ros-jazzy-mrs-mpc-solvers]
+
+livox-sdk2:
+  ubuntu: [livox-sdk2]
+
+# px4 is build using a custom script outside of the bloom pipeline
+px4:
+  ubuntu: [ros-jazzy-px4]
+
+# libcamera_ros is build using a custom script outside of the bloom pipeline
+libcamera_ros:
+  ubuntu: [ros-jazzy-libcamera-ros]
+
+# glslang-tools: Provides glslangValidator to validate and compile GLSL shaders for GPU acceleration.
+glslang-tools:
+  ubuntu: [glslang-tools]
+
+# other dependencies
+python3-jinja2:
+  ubuntu: [python3-jinja2]
+python3-av:
+  ubuntu: [python3-av]
+python-is-python3:
+  ubuntu: [python-is-python3]
+tmuxinator:
+  ubuntu: [tmuxinator]
+moreutils:
+  ubuntu: [moreutils]
+libgbm-dev:
+  ubuntu: [libgbm-dev]
+aptitude:
+  ubuntu: [aptitude]
+gdb:
+  ubuntu: [gdb]
