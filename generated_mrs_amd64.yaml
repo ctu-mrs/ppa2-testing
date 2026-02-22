@@ -136,8 +136,8 @@ example_plugin_manager:
 example_estimator_plugin:
     ubuntu: [ros-jazzy-example-estimator-plugin]
   
-example_waypoint_flier:
-    ubuntu: [ros-jazzy-example-waypoint-flier]
+example_waypoint_flier_native:
+    ubuntu: [ros-jazzy-example-waypoint-flier-native]
   
 example_sweeping_generator:
     ubuntu: [ros-jazzy-example-sweeping-generator]
@@ -145,8 +145,8 @@ example_sweeping_generator:
 example_controller_plugin:
     ubuntu: [ros-jazzy-example-controller-plugin]
   
-example_waypoint_flier_native:
-    ubuntu: [ros-jazzy-example-waypoint-flier-native]
+example_waypoint_flier:
+    ubuntu: [ros-jazzy-example-waypoint-flier]
   
 example_plugins:
     ubuntu: [ros-jazzy-example-plugins]
