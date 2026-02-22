@@ -1,0 +1,42 @@
+bluefox2:
+    ubuntu: [ros-jazzy-bluefox2]
+  
+mrs_realsense:
+    ubuntu: [ros-jazzy-mrs-realsense]
+  
+nlopt:
+    ubuntu: [ros-jazzy-nlopt]
+  
+octomap_msgs:
+    ubuntu: [ros-jazzy-octomap-msgs]
+  
+octomap_ros:
+    ubuntu: [ros-jazzy-octomap-ros]
+  
+octomap_rviz_plugins:
+    ubuntu: [ros-jazzy-octomap-rviz-plugins]
+  
+flame:
+    ubuntu: [ros-jazzy-flame]
+  
+ouster_sensor_msgs:
+    ubuntu: [ros-jazzy-ouster-sensor-msgs]
+  
+ouster_ros:
+    ubuntu: [ros-jazzy-ouster-ros]
+  
+ov_core:
+    ubuntu: [ros-jazzy-ov-core]
+  
+ov_data:
+    ubuntu: [ros-jazzy-ov-data]
+  
+ov_eval:
+    ubuntu: [ros-jazzy-ov-eval]
+  
+ov_init:
+    ubuntu: [ros-jazzy-ov-init]
+  
+ov_msckf:
+    ubuntu: [ros-jazzy-ov-msckf]
+  
