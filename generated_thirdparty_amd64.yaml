@@ -31,11 +31,11 @@ ov_core:
 ov_data:
     ubuntu: [ros-jazzy-ov-data]
   
-ov_eval:
-    ubuntu: [ros-jazzy-ov-eval]
-  
 ov_init:
     ubuntu: [ros-jazzy-ov-init]
+  
+ov_eval:
+    ubuntu: [ros-jazzy-ov-eval]
   
 ov_msckf:
     ubuntu: [ros-jazzy-ov-msckf]
