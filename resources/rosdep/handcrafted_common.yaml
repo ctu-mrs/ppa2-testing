@@ -29,6 +29,10 @@ libcamera_ros:
 glslang-tools:
   ubuntu: [glslang-tools]
 
+# for mrs_uav_bluetooth
+mrs-libsdbus-c++:
+  ubuntu: [mrs-libsdbus-c++]
+
 # other dependencies
 python3-jinja2:
   ubuntu: [python3-jinja2]
