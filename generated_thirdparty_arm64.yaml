@@ -1,0 +1,47 @@
+libmavconn:
+  ubuntu: [ros-jazzy-libmavconn]
+
+mavros_msgs:
+  ubuntu: [ros-jazzy-mavros-msgs]
+
+mavros:
+  ubuntu: [ros-jazzy-mavros]
+
+mavros_examples:
+  ubuntu: [ros-jazzy-mavros-examples]
+
+mavros_extras:
+  ubuntu: [ros-jazzy-mavros-extras]
+
+ov_core:
+    ubuntu: [ros-jazzy-ov-core]
+ov_data:
+    ubuntu: [ros-jazzy-ov-data]
+ov_init:
+    ubuntu: [ros-jazzy-ov-init]
+ov_eval:
+    ubuntu: [ros-jazzy-ov-eval]
+ov_msckf:
+    ubuntu: [ros-jazzy-ov-msckf]
+
+ouster_sensor_msgs:
+    ubuntu: [ros-jazzy-ouster-sensor-msgs]
+ouster_ros:
+    ubuntu: [ros-jazzy-ouster-ros]
+
+octomap_msgs:
+    ubuntu: [ros-jazzy-octomap-msgs]
+octomap_rviz_plugins:
+    ubuntu: [ros-jazzy-octomap-rviz-plugins]
+octomap_ros:
+    ubuntu: [ros-jazzy-octomap-ros]
+
+flame:
+    ubuntu: [ros-jazzy-flame]
+
+nlopt:
+    ubuntu: [ros-jazzy-nlopt]
+
+mrs_realsense:
+    ubuntu: [ros-jazzy-mrs-realsense]
+
