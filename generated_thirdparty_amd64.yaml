@@ -11,14 +11,14 @@ octomap_ros:
 bluefox2:
     ubuntu: [ros-jazzy-bluefox2]
 
-ov_core:
-    ubuntu: [ros-jazzy-ov-core]
 ov_data:
     ubuntu: [ros-jazzy-ov-data]
-ov_init:
-    ubuntu: [ros-jazzy-ov-init]
+ov_core:
+    ubuntu: [ros-jazzy-ov-core]
 ov_eval:
     ubuntu: [ros-jazzy-ov-eval]
+ov_init:
+    ubuntu: [ros-jazzy-ov-init]
 ov_msckf:
     ubuntu: [ros-jazzy-ov-msckf]
 
@@ -26,19 +26,15 @@ nlopt:
     ubuntu: [ros-jazzy-nlopt]
 
 mavros_msgs:
-  ubuntu: [ros-jazzy-mavros-msgs]
-
+    ubuntu: [ros-jazzy-mavros-msgs]
 libmavconn:
-  ubuntu: [ros-jazzy-libmavconn]
-
+    ubuntu: [ros-jazzy-libmavconn]
 mavros:
-  ubuntu: [ros-jazzy-mavros]
-
-mavros_examples:
-  ubuntu: [ros-jazzy-mavros-examples]
-
+    ubuntu: [ros-jazzy-mavros]
 mavros_extras:
-  ubuntu: [ros-jazzy-mavros-extras]
+    ubuntu: [ros-jazzy-mavros-extras]
+mavros_examples:
+    ubuntu: [ros-jazzy-mavros-examples]
 
 mrs_realsense:
     ubuntu: [ros-jazzy-mrs-realsense]
