@@ -1,0 +1,3 @@
+Package: *
+Pin: release o=ctu-mrs,l=testing,c=
+Pin-Priority: 2222
