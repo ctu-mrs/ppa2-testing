@@ -6,7 +6,7 @@ sudo rm /etc/apt/sources.list.d/ctu-mrs-testing.list
 sudo rm /etc/apt/preferences.d/ctu-mrs-testing-preferences
 sudo rm /etc/ros/rosdep/sources.list.d/ctu-mrs-testing.list
 
-sudo apt-get update -o Acquire::Retries="4"
+sudo apt-get -o Acquire::Retries="4" update
 rosdep update
 
 echo "$0: Finished removing MRS ROS2 Testing PPA repository"
