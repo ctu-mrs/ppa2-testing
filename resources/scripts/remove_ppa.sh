@@ -10,7 +10,7 @@ if [ -n "$ROS_DISTRO" ]; then
   DISTRO="--rosdistro=$ROS_DISTRO"
 fi
 
-sudo apt-get -o Acquire::Retries="4" update
+sudo apt-get -o Acquire::Retries=4 update
 rosdep $DISTRO update
 
 echo "$0: Finished removing MRS ROS2 Testing PPA repository"
