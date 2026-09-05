@@ -187,8 +187,8 @@ mrs_point_lio_core:
 mrs_open_vins_core:
     ubuntu: [ros-jazzy-mrs-open-vins-core]
 
-mrs_uav_system:
-    ubuntu: [ros-jazzy-mrs-uav-system]
 mrs_uav_system_full:
     ubuntu: [ros-jazzy-mrs-uav-system-full]
+mrs_uav_system:
+    ubuntu: [ros-jazzy-mrs-uav-system]
 
