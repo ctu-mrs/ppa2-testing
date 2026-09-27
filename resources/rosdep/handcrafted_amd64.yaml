@@ -4,5 +4,6 @@
 #   ubuntu: [apt dependencies]
 #
 
-dummy_node_to_have_something_here:
-  ubuntu: [dummy_node_to_have_something_here]
+# for pylon Basler camera packages
+codemeter:
+  ubuntu: [codemeter]

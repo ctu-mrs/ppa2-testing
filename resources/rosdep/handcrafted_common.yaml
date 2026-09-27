@@ -33,6 +33,12 @@ glslang-tools:
 mrs-libsdbus-c++:
   ubuntu: [mrs-libsdbus-c++]
 
+# for pylon Basler camera packages
+pylon:
+  ubuntu: [pylon]
+pylon-supplementary-package-for-blaze:
+  ubuntu: [pylon-supplementary-package-for-blaze]
+  
 # other dependencies
 python3-jinja2:
   ubuntu: [python3-jinja2]
