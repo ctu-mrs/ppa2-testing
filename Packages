@@ -1,0 +1,2385 @@
+Package: livox-sdk
+Version: 2.0.0
+Architecture: amd64
+Maintainer: Tomas Baca <tomas.baca@fel.cvut.cz>
+Filename: ./livox-sdk_2.0.0_amd64.deb
+Size: 742482
+MD5sum: 6e99bad6de579fe19477b5b88b3573f4
+SHA1: 290979b48a6484bc8ca647bc3b2a3679ab72b336
+SHA256: 015bdc4e66c849be7dacf1b493607f5ea0770ec44ae27d272d6d1d6573df5251
+Section: libs
+Priority: optional
+Homepage: https://github.com/ctu-mrs/livox_sdk/tree/0dc0bf21b7fc59311bb3a6a37c8f5f47ca8a8f51
+Description: Livox SDK library for Livox LiDARs
+Xb-Build-Date: Sat, 10 Oct 2026 17:09:12 +0000
+
+Package: livox-sdk
+Version: 2.0.0
+Architecture: arm64
+Maintainer: Tomas Baca <tomas.baca@fel.cvut.cz>
+Filename: ./livox-sdk_2.0.0_arm64.deb
+Size: 801786
+MD5sum: e57aef81437fd71075eae32f278e0d45
+SHA1: 14a122a6193b7038ad75ea7c36f379f6e179f5e2
+SHA256: 05ccc0c35711dfc13200b03596acfce5c4dec8c7a14198477670504abac9871d
+Section: libs
+Priority: optional
+Homepage: https://github.com/ctu-mrs/livox_sdk/tree/0dc0bf21b7fc59311bb3a6a37c8f5f47ca8a8f51
+Description: Livox SDK library for Livox LiDARs
+Xb-Build-Date: Sat, 10 Oct 2026 17:17:20 +0000
+
+Package: livox-sdk2
+Version: 2.0.0
+Architecture: amd64
+Maintainer: Tomas Baca <tomas.baca@fel.cvut.cz>
+Filename: ./livox-sdk2_2.0.0_amd64.deb
+Size: 2286384
+MD5sum: 6750732ab9272b14d0764589b01a99ff
+SHA1: c5c2fe894c8679015c334f0ee79be711e2ee27dc
+SHA256: 849870e6ca254a08a4a49618c5ce6ad316587db47bf6f3847fd645e8c34d6197
+Section: libs
+Priority: optional
+Homepage: https://github.com/ctu-mrs/livox_sdk2/tree/432ea1994fbb7f8390224cd12907eaa07200b7e5
+Description: Livox SDK2 library for Livox LiDARs
+Xb-Build-Date: Sat, 10 Oct 2026 17:09:22 +0000
+
+Package: livox-sdk2
+Version: 2.0.0
+Architecture: arm64
+Maintainer: Tomas Baca <tomas.baca@fel.cvut.cz>
+Filename: ./livox-sdk2_2.0.0_arm64.deb
+Size: 2339636
+MD5sum: 8678b68246145bcd54492f10827e3513
+SHA1: 860009e8b8ade367e27e7818308cac6c9bd9e7ff
+SHA256: 75ad61520fb8bbf76da16658d07c0f998e0b9065c761a7b94ddf36627d278abf
+Section: libs
+Priority: optional
+Homepage: https://github.com/ctu-mrs/livox_sdk2/tree/432ea1994fbb7f8390224cd12907eaa07200b7e5
+Description: Livox SDK2 library for Livox LiDARs
+Xb-Build-Date: Sat, 10 Oct 2026 17:17:35 +0000
+
+Package: mrs-bluez
+Version: 5.87
+Architecture: amd64
+Maintainer: Vojtech Vrba <vrba.vojtech@fel.cvut.cz>
+Depends: libc6, libdbus-1-3, libglib2.0-0, libjson-c5, libreadline8, libssl3t64, libudev1, kmod, udev, dbus
+Conflicts: bluez, bluez-obexd, bluez-hcidump, bluez-meshd, bluez-test-tools
+Replaces: bluez, bluez-obexd, bluez-hcidump, bluez-meshd, bluez-test-tools
+Provides: bluez (= 5.87), bluez-obexd (= 5.87), bluez-hcidump (= 5.87), bluez-meshd (= 5.87)
+Filename: ./mrs-bluez_5.87_amd64.deb
+Size: 7824462
+MD5sum: 247fe4ca5a0b6ee04c1debb4b1e32429
+SHA1: 1f0aa6c8bb6e8e3d16a3cbbcef02121534e9bb40
+SHA256: a005b4f4f34a388fa0d405fd59fa02f94301f3075117cd1b590e2c84cbf99d6a
+Section: admin
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_bluetooth/tree/636abdfb92ed04e3b54b7e6d97f6e0a9127ae731
+Description: Custom bluez build for MRS UAV system
+Xb-Build-Date: Sat, 10 Oct 2026 17:12:16 +0000
+
+Package: mrs-bluez
+Version: 5.87
+Architecture: arm64
+Maintainer: Vojtech Vrba <vrba.vojtech@fel.cvut.cz>
+Depends: libc6, libdbus-1-3, libglib2.0-0, libjson-c5, libreadline8, libssl3t64, libudev1, kmod, udev, dbus
+Conflicts: bluez, bluez-obexd, bluez-hcidump, bluez-meshd, bluez-test-tools
+Replaces: bluez, bluez-obexd, bluez-hcidump, bluez-meshd, bluez-test-tools
+Provides: bluez (= 5.87), bluez-obexd (= 5.87), bluez-hcidump (= 5.87), bluez-meshd (= 5.87)
+Filename: ./mrs-bluez_5.87_arm64.deb
+Size: 7755402
+MD5sum: 5a1d565e204d483dc10cfebdd5f61201
+SHA1: ca5252b195c27721e623b509ca4d9ede5555c51c
+SHA256: 8b1f6f6add1eb78aab1ddb37fba8c72dc361a74f2a29652f629af3fbc7d3733a
+Section: admin
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_bluetooth/tree/636abdfb92ed04e3b54b7e6d97f6e0a9127ae731
+Description: Custom bluez build for MRS UAV system
+Xb-Build-Date: Sat, 10 Oct 2026 17:20:29 +0000
+
+Package: mrs-fpga-dev
+Version: 1.0.0
+Architecture: arm64
+Maintainer: Vojtech Vrba <vrba.vojtech@fel.cvut.cz>
+Depends: libc6, libstdc++6
+Filename: ./mrs-fpga-dev_1.0.0_arm64.deb
+Size: 51630
+MD5sum: e90d48c3fa71a8596e4b9bc1f7f94444
+SHA1: 0e9e674999d36341940ee70fa30a87ab48ba80d8
+SHA256: 2a548b1667782928c88cdf76665aaffdff86b70e6d137eb3208a73666bd78845
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_fpga_toolkit/tree/a11ea6bc97f1530394e9b7f4ed0359216cce7e2c
+Description: C++ development library for AMD/Xilinx FPGA devices
+ Provides XDMA transport, a common AXI IP driver base, and several IP driver implementations.
+Xb-Build-Date: Sat, 10 Oct 2026 17:16:57 +0000
+
+Package: mrs-fpga-dev
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Vojtech Vrba <vrba.vojtech@fel.cvut.cz>
+Depends: libc6, libstdc++6
+Filename: ./mrs-fpga-dev_1.0.0_amd64.deb
+Size: 56138
+MD5sum: 0e4abc9e51186bd9cc128d6cbfde4a1c
+SHA1: 8634a362f2776900d5df16518fc62f3de3e068c8
+SHA256: 0da10de9948badc2f1b1ee02b312fd2d777b1b3129000cf4bb1de9216473d21a
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_fpga_toolkit/tree/a11ea6bc97f1530394e9b7f4ed0359216cce7e2c
+Description: C++ development library for AMD/Xilinx FPGA devices
+ Provides XDMA transport, a common AXI IP driver base, and several IP driver implementations.
+Xb-Build-Date: Sat, 10 Oct 2026 17:09:02 +0000
+
+Package: mrs-fpga-dkms
+Version: 2025.2
+Architecture: all
+Maintainer: Vojtech Vrba <vrba.vojtech@fel.cvut.cz>
+Depends: linux-headers-generic, dkms, udev, build-essential
+Filename: ./mrs-fpga-dkms_2025.2_all.deb
+Size: 48222
+MD5sum: 17375422cb105f36adea89b9e0f57141
+SHA1: a80a8bb098c5fa15ffb5ed0812780f94a36fe555
+SHA256: e0f3c76082ad99ccad30378b0f5ceb74eb2529bee6c484b89372e021f2d9e228
+Section: admin
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_fpga_toolkit/tree/a11ea6bc97f1530394e9b7f4ed0359216cce7e2c
+Description: Xilinx XDMA DKMS for MRS UAV system
+Xb-Build-Date: Sat, 10 Oct 2026 17:09:02 +0000
+
+Package: mrs-fpgactl
+Version: 1.0.0
+Architecture: arm64
+Maintainer: Vojtech Vrba <vrba.vojtech@fel.cvut.cz>
+Depends: mrs-fpga-dev (= 1.0.0), libc6, libstdc++6, kmod, coreutils, openfpgaloader
+Filename: ./mrs-fpgactl_1.0.0_arm64.deb
+Size: 182224
+MD5sum: 8f549b492ba51eaf94740752ef4972e3
+SHA1: 8b1f583737f6d8498194f706ee2118927243ebd7
+SHA256: f85e6eaee304247185482ff5e2cbae5bf3fe7c8d44722b059089e72d12fdcbf1
+Section: admin
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_fpga_toolkit/tree/a11ea6bc97f1530394e9b7f4ed0359216cce7e2c
+Description: Control utility for AMD/Xilinx FPGA devices
+ Provides PCIe link, XDMA driver and USB JTAG controls for FPGA configuration and management.
+Xb-Build-Date: Sat, 10 Oct 2026 17:16:57 +0000
+
+Package: mrs-fpgactl
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Vojtech Vrba <vrba.vojtech@fel.cvut.cz>
+Depends: mrs-fpga-dev (= 1.0.0), libc6, libstdc++6, kmod, coreutils, openfpgaloader
+Filename: ./mrs-fpgactl_1.0.0_amd64.deb
+Size: 198288
+MD5sum: ce2face8ccca7dd230684decabbd2ebb
+SHA1: d9192610dffa0b540d2d9bcb56d4f14b3c312094
+SHA256: 18b1a59a80bedb2fc94f3d6cf2a06b807a38b0c18dee174037ad4c46d3ca82ff
+Section: admin
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_fpga_toolkit/tree/a11ea6bc97f1530394e9b7f4ed0359216cce7e2c
+Description: Control utility for AMD/Xilinx FPGA devices
+ Provides PCIe link, XDMA driver and USB JTAG controls for FPGA configuration and management.
+Xb-Build-Date: Sat, 10 Oct 2026 17:09:02 +0000
+
+Package: mrs-geographiclib-datasets
+Version: 1.0.1
+Architecture: all
+Maintainer: Tomas Baca <tomas.baca@fel.cvut.cz>
+Depends: geographiclib-tools
+Filename: ./mrs-geographiclib-datasets_1.0.1_all.deb
+Size: 16279742
+MD5sum: 0c387bdcc62e55b750e373879dff2d1a
+SHA1: 71ea5b9cfb3f309aca09d7a96c3db1de99c46117
+SHA256: beb4b94873bdd973879f7ae28042661ba0b901cc27ef402fd20d0da5310c13eb
+Homepage: https://github.com/ctu-mrs/mrs-geographiclib-datasets/tree/2e5776c7542deb4c8b3762891bc2d0ee245b8320
+Description: Supply for geographiclib datasets
+Xb-Build-Date: Sat, 10 Oct 2026 17:08:49 +0000
+
+Package: mrs-libsdbus-c++
+Version: 2.3.1
+Architecture: amd64
+Maintainer: Vojtech Vrba <vrba.vojtech@fel.cvut.cz>
+Depends: cmake, dbus-daemon, debhelper-compat, libexpat1-dev, libgmock-dev, libsystemd-dev, pkg-config
+Conflicts: libsdbus-c++-dev, libsdbus-c++1, libsdbus-c++-bin, libsdbus-c++-doc
+Replaces: libsdbus-c++-dev, libsdbus-c++1, libsdbus-c++-bin, libsdbus-c++-doc
+Provides: libsdbus-c++-dev (= 2.3.1), libsdbus-c++1 (= 2.3.1), libsdbus-c++-bin (= 2.3.1), libsdbus-c++-doc (= 2.3.1)
+Filename: ./mrs-libsdbus-c++_2.3.1_amd64.deb
+Size: 246100
+MD5sum: 53839012d18c61dc82c0d6f49ede072b
+SHA1: c3ed17ff295a40783929935212e4a5a8c81736cd
+SHA256: b8ae2538de4b1ff5aaf8e0eccefcdb33d7e9251f39c1b92a9985721a4db8e94b
+Section: admin
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_bluetooth/tree/636abdfb92ed04e3b54b7e6d97f6e0a9127ae731
+Description: Custom sdbus-cpp build for MRS UAV system
+Xb-Build-Date: Sat, 10 Oct 2026 17:12:25 +0000
+
+Package: mrs-libsdbus-c++
+Version: 2.3.1
+Architecture: arm64
+Maintainer: Vojtech Vrba <vrba.vojtech@fel.cvut.cz>
+Depends: cmake, dbus-daemon, debhelper-compat, libexpat1-dev, libgmock-dev, libsystemd-dev, pkg-config
+Conflicts: libsdbus-c++-dev, libsdbus-c++1, libsdbus-c++-bin, libsdbus-c++-doc
+Replaces: libsdbus-c++-dev, libsdbus-c++1, libsdbus-c++-bin, libsdbus-c++-doc
+Provides: libsdbus-c++-dev (= 2.3.1), libsdbus-c++1 (= 2.3.1), libsdbus-c++-bin (= 2.3.1), libsdbus-c++-doc (= 2.3.1)
+Filename: ./mrs-libsdbus-c++_2.3.1_arm64.deb
+Size: 228596
+MD5sum: 1defa04db6e5d27bc1ece593f9037d6d
+SHA1: e8b6c334605108687056a70657ee0b09e16ce5f1
+SHA256: f040445139a6c2cbbc72bd053d49a4d2ce4de5e4c56738e4ca24aa4c76a6e1f3
+Section: admin
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_bluetooth/tree/636abdfb92ed04e3b54b7e6d97f6e0a9127ae731
+Description: Custom sdbus-cpp build for MRS UAV system
+Xb-Build-Date: Sat, 10 Oct 2026 17:20:40 +0000
+
+Package: mrs-uav-bluetooth-service
+Version: 1.2.0
+Architecture: all
+Maintainer: Vojtech Vrba <vojtech.vrba@fel.cvut.cz>
+Depends: ros-jazzy-mrs-uav-bluetooth, mrs-bluez (>= 5.87), polkitd, systemd, python3
+Filename: ./mrs-uav-bluetooth-service_1.2.0_all.deb
+Size: 6054
+MD5sum: 5ddb19748780241383ca8bcc878f13f8
+SHA1: c95b37a526f6c3adeb39ea36e4bc791351a2f728
+SHA256: 15dab4f8138692e39c19cb1ff5b5ba8de2732906d7e6d7668c5dfa7bf73c5bf3
+Homepage: https://github.com/ctu-mrs/mrs_uav_bluetooth/tree/636abdfb92ed04e3b54b7e6d97f6e0a9127ae731
+Description: System service for ROS 2 MRS UAV Bluetooth service node.
+Xb-Build-Date: Sat, 10 Oct 2026 17:20:40 +0000
+
+Package: mrs-uav-shell-additions
+Version: 2.0.5
+Architecture: all
+Maintainer: Tomas Baca <tomas.baca@fel.cvut.cz>
+Filename: ./mrs-uav-shell-additions_2.0.5_all.deb
+Size: 5678
+MD5sum: b13284941e096b7142d6e9b5e29a7641
+SHA1: d3f6697334d85f3d5da2d40ee8488296b7b36711
+SHA256: ce165ff448bde36cc7dace24e4c6ccaa0944e51bbbbda6646f1da5ff916b86a0
+Homepage: https://github.com/ctu-mrs/mrs_uav_shell_additions/tree/285acf76e560db6bf44a4b7edd21f6cea083d299
+Description: Set of shell-expanding binaries and configs for the MRS group.
+Xb-Build-Date: Sat, 10 Oct 2026 17:08:47 +0000
+
+Package: mrs-uav-usb-configurator
+Version: 2.0.0
+Architecture: all
+Maintainer: Daniel Hert <daniel.hert@fel.cvut.cz>
+Filename: ./mrs-uav-usb-configurator_2.0.0_all.deb
+Size: 1620
+MD5sum: 28d6b6559912701fa3b725e92add93c8
+SHA1: d5f34e1c46a2e98001e2679aed7c0b986a711a65
+SHA256: 5f2c2c2ab3ee12bb90137f26b6e6161c959f3b780a2d62a21ae7caed47c9a43a
+Homepage: https://github.com/ctu-mrs/mrs_uav_usb_configurator/tree/015640dc24c0eea8b8f2fb033ad498f7ff856f80
+Description: Usb configurator
+Xb-Build-Date: Sat, 10 Oct 2026 17:08:41 +0000
+
+Package: ros-jazzy-bluefox2
+Version: 2:0.0.0-0noble.20261010.191410~git.0cb5a1c.base.b7fb6f40
+Architecture: amd64
+Maintainer: "ubuntu" <lennejak@fel.cvut.cz>
+Installed-Size: 26781
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libgomp1 (>= 4.2.1), libstdc++6 (>= 13.1), libusb-1.0-0 (>= 2:1.0.8), ros-jazzy-camera-info-manager, ros-jazzy-diagnostic-updater, ros-jazzy-image-proc, ros-jazzy-image-transport, ros-jazzy-rcl-interfaces, ros-jazzy-rclcpp, ros-jazzy-sensor-msgs
+Filename: ./ros-jazzy-bluefox2_0.0.0-0noble.20261010.191410~git.0cb5a1c.base.b7fb6f40_amd64.deb
+Size: 6788000
+MD5sum: 3ac10d169cffd24b3067c3174de039ca
+SHA1: 1c97b5dd10e7dc165e2834ed61860aac59bf3070
+SHA256: de3e01aa14a9654a7c1766166a4a33d6b9c23eee5ae9148b499aebe4b01e4a49
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/bluefox2/tree/0cb5a1c82691b29cdbb3adc5556f5b15a8297949
+Description: TODO: Package description
+Xb-Build-Date: Sat, 10 Oct 2026 19:15:08 +0000
+
+Package: ros-jazzy-example-blob-detector
+Version: 2:2.0.0-0noble.20261010.205651~git.0c175cc.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 99
+Depends: python3-opencv, ros-jazzy-ament-cmake, ros-jazzy-ament-cmake-python, ros-jazzy-cv-bridge, ros-jazzy-rclpy
+Filename: ./ros-jazzy-example-blob-detector_2.0.0-0noble.20261010.205651~git.0c175cc.base.2f3b123b_amd64.deb
+Size: 13906
+MD5sum: eba749a7422e568e659ef573014af929
+SHA1: d88462755d8e763ca70f7d3bcfbaccd1a76b3901
+SHA256: 8a8776e42742ebe07286153d2a12d7ca3c7c6c77397848b0d531d8a154335c06
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_computer_vision_examples/tree/0c175cc06313a7ce88494bc358a78f8452399478
+Description: Example Blob Detector
+Xb-Build-Date: Sat, 10 Oct 2026 20:56:58 +0000
+
+Package: ros-jazzy-example-controller-plugin
+Version: 2:2.0.0-0noble.20261010.214611~git.238c34c.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 240
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-managers, ros-jazzy-pluginlib, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-example-controller-plugin_2.0.0-0noble.20261010.214611~git.238c34c.base.2f3b123b_amd64.deb
+Size: 66458
+MD5sum: b9be7dc9913264b5f255a31bd7f18740
+SHA1: 6ebe98cd5f6c395b30018b1e188d8f9f4136a987
+SHA256: 161061ec794ac056b52cb86f376ddea839e07f4f571489aa303556e93a96c9a9
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_core_examples/tree/238c34c81dc7c3fc9c5a154be8b571c1c7b3a498
+Description: Example MRS Controller Plugin
+Xb-Build-Date: Sat, 10 Oct 2026 21:46:35 +0000
+
+Package: ros-jazzy-example-edge-detector
+Version: 2:2.0.0-0noble.20261010.205701~git.0c175cc.base.2f3b123b
+Architecture: amd64
+Maintainer: "Matej Petrlik" <matej.petrlik@fel.cvut.cz>
+Installed-Size: 384
+Depends: libc6 (>= 2.32), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-flann406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libopencv-dev, ros-jazzy-cv-bridge, ros-jazzy-image-geometry, ros-jazzy-image-transport, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-std-msgs, ros-jazzy-tf2-geometry-msgs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-example-edge-detector_2.0.0-0noble.20261010.205701~git.0c175cc.base.2f3b123b_amd64.deb
+Size: 110528
+MD5sum: 48c09808dcb215083153d4c8c6461ffc
+SHA1: dbef12855442ce225d4634461d9e886f22414d35
+SHA256: 1b70a666cf2099d0679489923cb728aad8395c565181b73f844cf369c121924e
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_computer_vision_examples/tree/0c175cc06313a7ce88494bc358a78f8452399478
+Description: Example Edge Detector
+Xb-Build-Date: Sat, 10 Oct 2026 20:57:29 +0000
+
+Package: ros-jazzy-example-estimator-plugin
+Version: 2:2.0.0-0noble.20261010.214853~git.238c34c.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 759
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libeigen3-dev, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-managers, ros-jazzy-mrs-uav-state-estimators, ros-jazzy-pluginlib, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-example-estimator-plugin_2.0.0-0noble.20261010.214853~git.238c34c.base.2f3b123b_amd64.deb
+Size: 136308
+MD5sum: acb66d105f6f9dab53eaaccc232c1906
+SHA1: 9772d41d1f1419f82dd39bccf08f4eb8cbae47fb
+SHA256: 6654ad88d0b67a3b60fddc41cbf5dd32d3ee76a0bb59b374a924d32eaa6ec43e
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_core_examples/tree/238c34c81dc7c3fc9c5a154be8b571c1c7b3a498
+Description: MRS Example Estimator Plugin
+Xb-Build-Date: Sat, 10 Oct 2026 21:49:40 +0000
+
+Package: ros-jazzy-example-plugin-manager
+Version: 2:2.0.0-0noble.20261010.214638~git.238c34c.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 466
+Depends: libc6 (>= 2.32), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libtinyxml2-10 (>= 10.0.0), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components
+Filename: ./ros-jazzy-example-plugin-manager_2.0.0-0noble.20261010.214638~git.238c34c.base.2f3b123b_amd64.deb
+Size: 144152
+MD5sum: 234f3f93203aa124999c277e8f6d5346
+SHA1: a4872a847c21a37b820089b19295a0af67f0ee93
+SHA256: 2cae4cf9bc7eb4be51f1f2fcc764f40be3eff62e18dfb4039cf9264acb82fbd0
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_core_examples/tree/238c34c81dc7c3fc9c5a154be8b571c1c7b3a498
+Description: Example MRS Plugin Manager
+Xb-Build-Date: Sat, 10 Oct 2026 21:47:10 +0000
+
+Package: ros-jazzy-example-plugins
+Version: 2:2.0.0-0noble.20261010.215019~git.238c34c.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 177
+Depends: libc6 (>= 2.32), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-example-plugin-manager, ros-jazzy-mrs-lib, ros-jazzy-mrs-uav-testing, ros-jazzy-pluginlib, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-example-plugins_2.0.0-0noble.20261010.215019~git.238c34c.base.2f3b123b_amd64.deb
+Size: 48512
+MD5sum: 2266c58d87697b6284d5a72d52027ca6
+SHA1: 04e5552b3abefc02504ae06e58528d0f919af29a
+SHA256: d114edc7b5544e9ccd4e413c529b8d8b6d3813e9acc714a878bde5554dec34e9
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_core_examples/tree/238c34c81dc7c3fc9c5a154be8b571c1c7b3a498
+Description: Example Plugins
+Xb-Build-Date: Sat, 10 Oct 2026 21:50:39 +0000
+
+Package: ros-jazzy-example-sweeping-generator
+Version: 2:2.0.0-0noble.20261010.214714~git.238c34c.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 100
+Depends: ros-jazzy-ament-cmake, ros-jazzy-ament-cmake-python, ros-jazzy-rclpy
+Filename: ./ros-jazzy-example-sweeping-generator_2.0.0-0noble.20261010.214714~git.238c34c.base.2f3b123b_amd64.deb
+Size: 13356
+MD5sum: 5b2b01ccca2bf7c9dd033860c429e533
+SHA1: 151f6d91282f81669990ccd5e228e451c88b306b
+SHA256: 83ac99fc970bfce87646faebefd73886436d8f06497f511182f2805461679a13
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_core_examples/tree/238c34c81dc7c3fc9c5a154be8b571c1c7b3a498
+Description: Example Sweeping Generator
+Xb-Build-Date: Sat, 10 Oct 2026 21:47:21 +0000
+
+Package: ros-jazzy-example-tracker-plugin
+Version: 2:2.0.0-0noble.20261010.214825~git.238c34c.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 245
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-managers, ros-jazzy-pluginlib, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-example-tracker-plugin_2.0.0-0noble.20261010.214825~git.238c34c.base.2f3b123b_amd64.deb
+Size: 67132
+MD5sum: 72e779f0624d30ef0c5788f12180b2ef
+SHA1: 21032f57d26e8cda835d65a8404dda4cbf139b33
+SHA256: a7d0fcdc797d1056f2483c8730636a06fbf00ecab2bb73a19e52adafce6c321a
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_core_examples/tree/238c34c81dc7c3fc9c5a154be8b571c1c7b3a498
+Description: Example MRS Tracker Plugin
+Xb-Build-Date: Sat, 10 Oct 2026 21:48:49 +0000
+
+Package: ros-jazzy-example-waypoint-flier
+Version: 2:2.0.0-0noble.20261010.214724~git.238c34c.base.2f3b123b
+Architecture: amd64
+Maintainer: "Matej Petrlik" <matej.petrlik@fel.cvut.cz>
+Installed-Size: 1174
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-testing, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-example-waypoint-flier_2.0.0-0noble.20261010.214724~git.238c34c.base.2f3b123b_amd64.deb
+Size: 252976
+MD5sum: 1d313879b0671918c0d9e86c52fc3692
+SHA1: d6a7ea825a9f58dbd9a7c00bce39829a919b6638
+SHA256: 7917706dc8183f189bbba496d073fb8df4a78cf3d22cce6726b0eafe0d43c3d5
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_core_examples/tree/238c34c81dc7c3fc9c5a154be8b571c1c7b3a498
+Description: Example Waypoint Flier
+Xb-Build-Date: Sat, 10 Oct 2026 21:48:21 +0000
+
+Package: ros-jazzy-example-waypoint-flier-native
+Version: 2:2.0.0-0noble.20261010.214943~git.238c34c.base.2f3b123b
+Architecture: amd64
+Maintainer: "klaxalk" <tomas.baca@fel.cvut.cz>
+Installed-Size: 612
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-msgs, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components
+Filename: ./ros-jazzy-example-waypoint-flier-native_2.0.0-0noble.20261010.214943~git.238c34c.base.2f3b123b_amd64.deb
+Size: 133956
+MD5sum: 750e741649cf1066dd6ef1c64069bb20
+SHA1: e41182280837205faf53124057327570361d694c
+SHA256: 261124919eae06ebdd04c1a863feb6eb89cba6d35a549671ee8459b19a2beaef
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_core_examples/tree/238c34c81dc7c3fc9c5a154be8b571c1c7b3a498
+Description: Example Waypoint Flier Native
+Xb-Build-Date: Sat, 10 Oct 2026 21:50:16 +0000
+
+Package: ros-jazzy-flame
+Version: 2:2.0.0-0noble.20261010.190843~git.7d655d4.base.bff57216
+Architecture: arm64
+Maintainer: "W. Nicholas Greene" <wng@csail.mit.edu>
+Installed-Size: 1190
+Depends: libc6 (>= 2.32), libgcc-s1 (>= 3.3.1), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libstdc++6 (>= 13.1), libboost-all-dev
+Filename: ./ros-jazzy-flame_2.0.0-0noble.20261010.190843~git.7d655d4.base.bff57216_arm64.deb
+Size: 336166
+MD5sum: e0a94a871cfd5b19500c1e5343a87edf
+SHA1: e88c585569a3d77fda8607ca32ce0f6e4e93de34
+SHA256: 687828c9317d340ffb7331441baf89302b9e7ade6b84374262feecce4f6bbb62
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/flame/tree/7d655d4112b8dd0d550e89d8bb1ba99ab6159f28
+Description: A lightweight method for dense online monocular depth estimation.
+Xb-Build-Date: Sat, 10 Oct 2026 19:09:51 +0000
+
+Package: ros-jazzy-flame
+Version: 2:2.0.0-0noble.20261010.191225~git.7d655d4.base.b7fb6f40
+Architecture: amd64
+Maintainer: "W. Nicholas Greene" <wng@csail.mit.edu>
+Installed-Size: 1258
+Depends: libc6 (>= 2.32), libgcc-s1 (>= 3.3.1), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libstdc++6 (>= 13.1), libboost-all-dev
+Filename: ./ros-jazzy-flame_2.0.0-0noble.20261010.191225~git.7d655d4.base.b7fb6f40_amd64.deb
+Size: 355392
+MD5sum: 29a182c44e556affe9c601074ecd565e
+SHA1: c964b1bea4db691681431280174e4633cc99aeb3
+SHA256: 3471edaf7ea808679aed1dc2f7bc246cab28129036dbfe92d83ee6c6e566cd75
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/flame/tree/7d655d4112b8dd0d550e89d8bb1ba99ab6159f28
+Description: A lightweight method for dense online monocular depth estimation.
+Xb-Build-Date: Sat, 10 Oct 2026 19:13:09 +0000
+
+Package: ros-jazzy-flame-ros
+Version: 2:0.0.0-0noble.20261010.205402~git.6ebca58.base.2f3b123b
+Architecture: amd64
+Maintainer: "ubuntu" <ubuntu@todo.todo>
+Installed-Size: 944
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libgomp1 (>= 6), libopencv-calib3d406t64 (>= 4.6.0+dfsg), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libpcl-common1.14 (>= 1.14.0+dfsg), libpcl-filters1.14 (>= 1.14.0+dfsg), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, libpcl-dev, ros-jazzy-ament-cmake, ros-jazzy-cv-bridge, ros-jazzy-flame, ros-jazzy-flame-ros-msgs, ros-jazzy-geometry-msgs, ros-jazzy-image-transport, ros-jazzy-mrs-lib, ros-jazzy-nav-msgs, ros-jazzy-pcl-conversions, ros-jazzy-pcl-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-sensor-msgs, ros-jazzy-sophus, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-flame-ros_0.0.0-0noble.20261010.205402~git.6ebca58.base.2f3b123b_amd64.deb
+Size: 265808
+MD5sum: 55153ee800a7ecfda9b1697a0fb065f8
+SHA1: e627d9140f627e393077fdaa762130710bc06a0e
+SHA256: dc5f5e192ce80640a42cf07f3ba6d53ccfbc090b1357fd46c7adf11a7b588104
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/flame_ros/tree/6ebca58bda23e86309d312fa9164e77adc2015b6
+Description: TODO: Package description
+Xb-Build-Date: Sat, 10 Oct 2026 20:55:17 +0000
+
+Package: ros-jazzy-flame-ros-msgs
+Version: 2:0.0.0-0noble.20261010.202730~git.11bffeb.base.2f3b123b
+Architecture: amd64
+Maintainer: "ubuntu" <ubuntu@todo.todo>
+Installed-Size: 895
+Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 5.2), ros-jazzy-fastcdr, ros-jazzy-pcl-msgs, ros-jazzy-rosidl-default-runtime, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-flame-ros-msgs_0.0.0-0noble.20261010.202730~git.11bffeb.base.2f3b123b_amd64.deb
+Size: 73738
+MD5sum: 63a493741f6e0eae05d52ee51d6748a9
+SHA1: 971ae8ee17de560b6443832609e05eb6ffb0ace4
+SHA256: 1e9110ac14d8f4b76631021ce6a0bb9b538a1f5366c203aabe821a23ba061db6
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/flame_ros_msgs/tree/11bffeb4818c157c01ca1c30cde8f4d993fc30d9
+Description: TODO: Package description
+Xb-Build-Date: Sat, 10 Oct 2026 20:27:41 +0000
+
+Package: ros-jazzy-libcamera-ros
+Version: 2:0.2.0-0noble.20261010.170923~on.push.build.git.716b3ee.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Vojtech Spurny" <vojtech.spurny@fel.cvut.cz>
+Installed-Size: 5296
+Depends: libc6 (>= 2.38), libegl1, libgcc-s1 (>= 3.3.1), libgles2, libssl3t64 (>= 3.0.0), libstdc++6 (>= 13.1), libyaml-0-2, git, libssl-dev, libudev-dev, libyaml-dev, openssl, python3-jinja2, python3-ply, python3-yaml
+Filename: ./ros-jazzy-libcamera-ros_0.2.0-0noble.20261010.170923~on.push.build.git.716b3ee.base.b7fb6f40_amd64.deb
+Size: 1040324
+MD5sum: 1795a35194233cc2050cae35d3f924af
+SHA1: 8c08bf90b12e11d977c2f0710d13dad310d93eaf
+SHA256: f4c296fb7f6b3ee7f91b2b5151195c41fd90fe6117647ff6bf54f5d534ea56dc
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/libcamera_ros/tree/716b3eeb67cfdd6f3011fe6a9561c28c3a39a484
+Description: ROS wrapper around the raspberrypi/libcamera library.
+Xb-Build-Date: Sat, 10 Oct 2026 17:11:54 +0000
+
+Package: ros-jazzy-libcamera-ros
+Version: 2:0.2.0-0noble.20261010.171715~on.push.build.git.716b3ee.base.bff57216
+Architecture: arm64
+Maintainer: "Vojtech Spurny" <vojtech.spurny@fel.cvut.cz>
+Installed-Size: 5353
+Depends: libc6 (>= 2.38), libegl1, libgcc-s1 (>= 4.2), libgles2, libssl3t64 (>= 3.0.0), libstdc++6 (>= 13.1), libyaml-0-2, git, libssl-dev, libudev-dev, libyaml-dev, openssl, python3-jinja2, python3-ply, python3-yaml
+Filename: ./ros-jazzy-libcamera-ros_0.2.0-0noble.20261010.171715~on.push.build.git.716b3ee.base.bff57216_arm64.deb
+Size: 995122
+MD5sum: c8198118947cffa9857d0eea78851993
+SHA1: 867caa116c42dc6529404308e263e27346d203e2
+SHA256: 68c9456b4a23b0a69d66838aac4ddddbbf768df5b67fde46caa71db71cf4de58
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/libcamera_ros/tree/716b3eeb67cfdd6f3011fe6a9561c28c3a39a484
+Description: ROS wrapper around the raspberrypi/libcamera library.
+Xb-Build-Date: Sat, 10 Oct 2026 17:18:51 +0000
+
+Package: ros-jazzy-libcamera-ros-driver
+Version: 2:0.1.0-0noble.20260115.152556~git.571a7c7.base.eef0bbd9
+Architecture: arm64
+Maintainer: Vojtech Spurny <vojtech.spurny@fel.cvut.cz>
+Installed-Size: 552
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), ros-jazzy-libcamera-ros, ros-jazzy-camera-info-manager, ros-jazzy-image-transport, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-libcamera-ros-driver_0.1.0-0noble.20260115.152556~git.571a7c7.base.eef0bbd9_arm64.deb
+Size: 130534
+MD5sum: 807db76e6fdb9fcc069b3875ca8966ee
+SHA1: 0d607d2ba1e38477e1c5dab41538ae6d71408a2c
+SHA256: 832131f31327d5c81278b45f98c102d30efe3c3e9aedc6de6592076011fdcf0e
+Section: misc
+Priority: optional
+Description: Package for libcamera supported cameras (V4L2, Raspberry Pi Camera Modules) for ROS
+
+Package: ros-jazzy-libcamera-ros-driver
+Version: 2:0.1.0-0noble.20261010.205405~git.7561354.base.2f3b123b
+Architecture: amd64
+Maintainer: "Vojtech Spurny" <vojtech.spurny@fel.cvut.cz>
+Installed-Size: 648
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 4.3), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-libcamera-ros, ros-jazzy-camera-info-manager, ros-jazzy-image-transport, ros-jazzy-mrs-lib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-libcamera-ros-driver_0.1.0-0noble.20261010.205405~git.7561354.base.2f3b123b_amd64.deb
+Size: 201484
+MD5sum: 7b6461896ca4eb3c34419a143f8976a6
+SHA1: 5ee3497270459078cb00b1dfb9ec2fabe6e7a293
+SHA256: 1ea14d33962eba6f154b2847a3b63b04e8671270ee449d9df93155fee63484d2
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/libcamera_ros_driver/tree/7561354be28813632538d184c8e7d1ed99a1ea8e
+Description: Package for libcamera supported cameras (V4L2, Raspberry Pi Camera Modules) for ROS
+Xb-Build-Date: Sat, 10 Oct 2026 20:54:42 +0000
+
+Package: ros-jazzy-libmavconn
+Version: 2:2.14.0-0noble.20261010.191348~git.c655e63.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Vladimir Ermakov" <vooon341@gmail.com>
+Installed-Size: 428
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libasio-dev, libconsole-bridge-dev, ros-jazzy-mavlink
+Filename: ./ros-jazzy-libmavconn_2.14.0-0noble.20261010.191348~git.c655e63.base.b7fb6f40_amd64.deb
+Size: 111712
+MD5sum: aeff2b73d4ae0255c20c6ba8a2d5ad86
+SHA1: cdd958fa387de35c3a9abc3355f5d13094daba30
+SHA256: f7723b9de039685a62b0f817a3c1b0658ca88d8f357906ac55c0b42967551410
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mavros/tree/c655e6343ec81687d51e7185bcba7a651e361fcd
+Description: MAVLink communication library.
+ This library provide unified connection handling classes and URL to connection object mapper. This library can be used in standalone programs.
+Xb-Build-Date: Sat, 10 Oct 2026 19:14:04 +0000
+
+Package: ros-jazzy-libmavconn
+Version: 2:2.14.0-0noble.20261010.191824~git.c655e63.base.bff57216
+Architecture: arm64
+Maintainer: "Vladimir Ermakov" <vooon341@gmail.com>
+Installed-Size: 428
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libasio-dev, libconsole-bridge-dev, ros-jazzy-mavlink
+Filename: ./ros-jazzy-libmavconn_2.14.0-0noble.20261010.191824~git.c655e63.base.bff57216_arm64.deb
+Size: 108342
+MD5sum: 64f5c0d472bbd00afb92a1bdf7c10fcd
+SHA1: 683afd90698d8125e02607edeedf0b3f2ada7502
+SHA256: 52d602b7ddefc4eaae38cfe16e94acc4cfd61973144f994c2ceea7dad08044d4
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mavros/tree/c655e6343ec81687d51e7185bcba7a651e361fcd
+Description: MAVLink communication library.
+ This library provide unified connection handling classes and URL to connection object mapper. This library can be used in standalone programs.
+Xb-Build-Date: Sat, 10 Oct 2026 19:19:06 +0000
+
+Package: ros-jazzy-livox-ros-driver2
+Version: 2:1.0.0-0noble.20251104.153223~git.f16e10a.base.f584d0c7
+Architecture: arm64
+Maintainer: feng <dev@livoxtech.com>
+Installed-Size: 1619
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 13.1), ros-jazzy-fastcdr, git, libapr1-dev, libaprutil1-dev, libpcl-dev, livox-sdk2, ros-jazzy-pcl-conversions, ros-jazzy-rcl-interfaces, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rcutils, ros-jazzy-rosbag2, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-livox-ros-driver2_1.0.0-0noble.20251104.153223~git.f16e10a.base.f584d0c7_arm64.deb
+Size: 183592
+MD5sum: 3fcf90a198faa7ca4b0655e3fd9e82e0
+SHA1: 20af4d79a8dbffa56f895456cda4f5bab0ab1eaa
+SHA256: 41048e0385732d16b53cb226e38b69295d5b6b4c05d6c096ac538b4e5f83467f
+Section: misc
+Priority: optional
+Description: The ROS device driver for Livox 3D LiDARs, for ROS2
+
+Package: ros-jazzy-livox-ros-driver2
+Version: 2:2.0.0-0noble.20261010.205615~git.9a18d9a.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 1266
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-fastcdr, git, libapr1-dev, libaprutil1-dev, libpcl-dev, livox-sdk2, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-pcl-conversions, ros-jazzy-pcl-ros, ros-jazzy-rcl-interfaces, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rcutils, ros-jazzy-rosbag2, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-livox-ros-driver2_2.0.0-0noble.20261010.205615~git.9a18d9a.base.2f3b123b_amd64.deb
+Size: 246168
+MD5sum: a541f8e45987baa8e7acbe33969f4eeb
+SHA1: 988c5fa0d8e5b37cd2e3f7a2222187bf3144110f
+SHA256: 7ba90efc59cb3cf1ae6a0b22ff462710708efc1c126c04c71a2edc5831437378
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/livox_ros_driver2/tree/9a18d9a04381a769c230f2fcd8df075774b1ac0b
+Description: The ROS device driver for Livox 3D LiDARs, for ROS2
+Xb-Build-Date: Sat, 10 Oct 2026 20:56:48 +0000
+
+Package: ros-jazzy-mavros
+Version: 2:2.14.0-0noble.20261010.191804~git.c655e63.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Vladimir Ermakov" <vooon341@gmail.com>
+Installed-Size: 9779
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libgeographiclib26 (>= 1.46), libstdc++6 (>= 13.1), libtinyxml2-10 (>= 10.0.0), geographiclib-tools, libconsole-bridge-dev, libeigen3-dev, libgeographiclib-dev, python3-click, ros-jazzy-diagnostic-msgs, ros-jazzy-diagnostic-updater, ros-jazzy-eigen-stl-containers, ros-jazzy-eigen3-cmake-module, ros-jazzy-geographic-msgs, ros-jazzy-geometry-msgs, ros-jazzy-libmavconn, ros-jazzy-mavlink, ros-jazzy-mavros-msgs, ros-jazzy-message-filters, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclpy, ros-jazzy-rcpputils, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-eigen, ros-jazzy-tf2-ros, ros-jazzy-trajectory-msgs
+Filename: ./ros-jazzy-mavros_2.14.0-0noble.20261010.191804~git.c655e63.base.b7fb6f40_amd64.deb
+Size: 1615702
+MD5sum: 774031ac9f370147cf0e68af8491a8ae
+SHA1: 7ffc6da5beea4227add9fa511311bc27095a8f9d
+SHA256: a9ed418bb76f0bd54ec79634cea24d4aa28ac37f0da715608a0b31fba0fd7481
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mavros/tree/c655e6343ec81687d51e7185bcba7a651e361fcd
+Description: MAVROS -- MAVLink extendable communication node for ROS with proxy for Ground Control Station.
+Xb-Build-Date: Sat, 10 Oct 2026 19:23:05 +0000
+
+Package: ros-jazzy-mavros
+Version: 2:2.14.0-0noble.20261010.191921~git.c655e63.base.bff57216
+Architecture: arm64
+Maintainer: "Vladimir Ermakov" <vooon341@gmail.com>
+Installed-Size: 9783
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libgeographiclib26 (>= 1.46), libstdc++6 (>= 13.1), libtinyxml2-10 (>= 10.0.0), geographiclib-tools, libconsole-bridge-dev, libeigen3-dev, libgeographiclib-dev, python3-click, ros-jazzy-diagnostic-msgs, ros-jazzy-diagnostic-updater, ros-jazzy-eigen-stl-containers, ros-jazzy-eigen3-cmake-module, ros-jazzy-geographic-msgs, ros-jazzy-geometry-msgs, ros-jazzy-libmavconn, ros-jazzy-mavlink, ros-jazzy-mavros-msgs, ros-jazzy-message-filters, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclpy, ros-jazzy-rcpputils, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-eigen, ros-jazzy-tf2-ros, ros-jazzy-trajectory-msgs
+Filename: ./ros-jazzy-mavros_2.14.0-0noble.20261010.191921~git.c655e63.base.bff57216_arm64.deb
+Size: 1511742
+MD5sum: ad119a7f7de8fafe6ef500f2d376c3ba
+SHA1: 4fafa963e1015138a34152081edc8349b66ed6de
+SHA256: c1b8b1bd5e3201967d0f0f268e85b620cdf2193030573a99fc50e034d10919d7
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mavros/tree/c655e6343ec81687d51e7185bcba7a651e361fcd
+Description: MAVROS -- MAVLink extendable communication node for ROS with proxy for Ground Control Station.
+Xb-Build-Date: Sat, 10 Oct 2026 19:33:29 +0000
+
+Package: ros-jazzy-mavros-examples
+Version: 2:2.14.0-0noble.20261010.192855~git.c655e63.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Haroon Rasheed" <haroon300@hotmail.com>
+Installed-Size: 112
+Depends: ros-jazzy-eigen3-cmake-module, ros-jazzy-geometry-msgs, ros-jazzy-mavros, ros-jazzy-mavros-msgs, ros-jazzy-rclpy, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-trajectory-msgs
+Filename: ./ros-jazzy-mavros-examples_2.14.0-0noble.20261010.192855~git.c655e63.base.b7fb6f40_amd64.deb
+Size: 12906
+MD5sum: d623171ff51fc039dcec44b87dfc0e2f
+SHA1: c89b6fe2d80554bd4d134af6ec2e047e14b5165f
+SHA256: 295d1ed4c99d73ec92356e84f17f9e2f6bd9632374b83dd9c9486a147326bcb5
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mavros/tree/c655e6343ec81687d51e7185bcba7a651e361fcd
+Description: Example scripts demonstrating MAVROS usage
+Xb-Build-Date: Sat, 10 Oct 2026 19:28:58 +0000
+
+Package: ros-jazzy-mavros-examples
+Version: 2:2.14.0-0noble.20261010.195050~git.c655e63.base.bff57216
+Architecture: arm64
+Maintainer: "Haroon Rasheed" <haroon300@hotmail.com>
+Installed-Size: 112
+Depends: ros-jazzy-eigen3-cmake-module, ros-jazzy-geometry-msgs, ros-jazzy-mavros, ros-jazzy-mavros-msgs, ros-jazzy-rclpy, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-trajectory-msgs
+Filename: ./ros-jazzy-mavros-examples_2.14.0-0noble.20261010.195050~git.c655e63.base.bff57216_arm64.deb
+Size: 12908
+MD5sum: 0496f904455072aef2fbac178adae13a
+SHA1: 4faa0cc31ce9cda2d4a88ecbc5bbc67b5a9cef9e
+SHA256: a3bec6ceb0acf98d22d279deb7a72c6a10c87905dcb1da8811fc0f6577e34fbc
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mavros/tree/c655e6343ec81687d51e7185bcba7a651e361fcd
+Description: Example scripts demonstrating MAVROS usage
+Xb-Build-Date: Sat, 10 Oct 2026 19:50:56 +0000
+
+Package: ros-jazzy-mavros-extras
+Version: 2:2.14.0-0noble.20261010.192310~git.c655e63.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Vladimir Ermakov" <vooon341@gmail.com>
+Installed-Size: 12717
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.4), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), geographiclib-tools, libeigen3-dev, libgeographiclib-dev, libyaml-cpp-dev, ros-jazzy-diagnostic-msgs, ros-jazzy-diagnostic-updater, ros-jazzy-eigen-stl-containers, ros-jazzy-eigen3-cmake-module, ros-jazzy-geographic-msgs, ros-jazzy-geometry-msgs, ros-jazzy-libmavconn, ros-jazzy-mavlink, ros-jazzy-mavros, ros-jazzy-mavros-msgs, ros-jazzy-message-filters, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rcpputils, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-eigen, ros-jazzy-tf2-ros, ros-jazzy-trajectory-msgs, ros-jazzy-urdf, ros-jazzy-visualization-msgs, ros-jazzy-yaml-cpp-vendor
+Filename: ./ros-jazzy-mavros-extras_2.14.0-0noble.20261010.192310~git.c655e63.base.b7fb6f40_amd64.deb
+Size: 1656162
+MD5sum: 0fc65c4acb81d493548326856da57d3f
+SHA1: dcc5fe107c70fc25c98754f7ac90e053ac217471
+SHA256: 8ec52d2cd22963fcd7da45cd1591471619c2faafe849a1a00553def7e567e488
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mavros/tree/c655e6343ec81687d51e7185bcba7a651e361fcd
+Description: Extra nodes and plugins for MAVROS.
+Xb-Build-Date: Sat, 10 Oct 2026 19:28:50 +0000
+
+Package: ros-jazzy-mavros-extras
+Version: 2:2.14.0-0noble.20261010.193336~git.c655e63.base.bff57216
+Architecture: arm64
+Maintainer: "Vladimir Ermakov" <vooon341@gmail.com>
+Installed-Size: 12788
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), geographiclib-tools, libeigen3-dev, libgeographiclib-dev, libyaml-cpp-dev, ros-jazzy-diagnostic-msgs, ros-jazzy-diagnostic-updater, ros-jazzy-eigen-stl-containers, ros-jazzy-eigen3-cmake-module, ros-jazzy-geographic-msgs, ros-jazzy-geometry-msgs, ros-jazzy-libmavconn, ros-jazzy-mavlink, ros-jazzy-mavros, ros-jazzy-mavros-msgs, ros-jazzy-message-filters, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rcpputils, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-eigen, ros-jazzy-tf2-ros, ros-jazzy-trajectory-msgs, ros-jazzy-urdf, ros-jazzy-visualization-msgs, ros-jazzy-yaml-cpp-vendor
+Filename: ./ros-jazzy-mavros-extras_2.14.0-0noble.20261010.193336~git.c655e63.base.bff57216_arm64.deb
+Size: 1539186
+MD5sum: 90ae490cdbdf9a0cca6f93a90bff7cf6
+SHA1: 49b508550b1844c7fbfd107eb40714a63e17221e
+SHA256: cbf39995cf4702650314afd62dbd875644e912b7041b817969d265f4cfa25b9e
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mavros/tree/c655e6343ec81687d51e7185bcba7a651e361fcd
+Description: Extra nodes and plugins for MAVROS.
+Xb-Build-Date: Sat, 10 Oct 2026 19:50:45 +0000
+
+Package: ros-jazzy-mavros-msgs
+Version: 2:2.14.0-0noble.20261010.190839~git.c655e63.base.bff57216
+Architecture: arm64
+Maintainer: "Vladimir Ermakov" <vooon341@gmail.com>
+Installed-Size: 33229
+Depends: libc6 (>= 2.17), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 11), ros-jazzy-fastcdr, ros-jazzy-geographic-msgs, ros-jazzy-geometry-msgs, ros-jazzy-rcl-interfaces, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs
+Filename: ./ros-jazzy-mavros-msgs_2.14.0-0noble.20261010.190839~git.c655e63.base.bff57216_arm64.deb
+Size: 1895900
+MD5sum: 3a8c6e74273d200974f99d934a753359
+SHA1: 51066419a9085de38c7201823e41d391802926b8
+SHA256: 5ac6e90bebf61f351c59c07d7dcd6422884f81fcca81faa6b34d39ab2a456a70
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mavros/tree/c655e6343ec81687d51e7185bcba7a651e361fcd
+Description: Messages for MAVROS.
+Xb-Build-Date: Sat, 10 Oct 2026 19:18:02 +0000
+
+Package: ros-jazzy-mavros-msgs
+Version: 2:2.14.0-0noble.20261010.191412~git.c655e63.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Vladimir Ermakov" <vooon341@gmail.com>
+Installed-Size: 32305
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 11), ros-jazzy-fastcdr, ros-jazzy-geographic-msgs, ros-jazzy-geometry-msgs, ros-jazzy-rcl-interfaces, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs
+Filename: ./ros-jazzy-mavros-msgs_2.14.0-0noble.20261010.191412~git.c655e63.base.b7fb6f40_amd64.deb
+Size: 1897574
+MD5sum: 5d47282523815e52f1bcbd568cfc2a72
+SHA1: a7f90a31fc6196f91245e6bcba4d2a559c28851d
+SHA256: ea3a0e553550dc02940e186290ba517af9dab6db6f088dd50289fbbef74e2582
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mavros/tree/c655e6343ec81687d51e7185bcba7a651e361fcd
+Description: Messages for MAVROS.
+Xb-Build-Date: Sat, 10 Oct 2026 19:17:41 +0000
+
+Package: ros-jazzy-mrs-bumper
+Version: 2:1.0.4-0noble.20261010.205737~git.24bb8fe.base.2f3b123b
+Architecture: amd64
+Maintainer: "Matouš Vrba" <vrbamato@fel.cvut.cz>
+Installed-Size: 2679
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-flann406t64 (>= 4.6.0+dfsg), libopencv-highgui406t64 (>= 4.6.0+dfsg), libopencv-imgcodecs406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), liborocos-kdl1.5 (>= 1.5.1), libpcl-common1.14 (>= 1.14.0+dfsg), libpcl-filters1.14 (>= 1.14.0+dfsg), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-cv-bridge, ros-jazzy-geometry-msgs, ros-jazzy-image-geometry, ros-jazzy-image-transport, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-pcl-conversions, ros-jazzy-pcl-msgs, ros-jazzy-pcl-ros, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-sensor-msgs, ros-jazzy-tf2-geometry-msgs, ros-jazzy-tf2-ros, ros-jazzy-tf2-sensor-msgs
+Filename: ./ros-jazzy-mrs-bumper_1.0.4-0noble.20261010.205737~git.24bb8fe.base.2f3b123b_amd64.deb
+Size: 478360
+MD5sum: 2409e162adb0e86fc8efcb56eb8b4e64
+SHA1: 084664053da4d2670c90e9d1cc0b02bd59f7a391
+SHA256: a778027029821edd3b48b526b78c95368a68239a3ab2c6011a561b5f6403ff9d
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_bumper/tree/24bb8fef3879ae7206cbd81fd819c3f7d15b6ace
+Description: Program for publishing bumper messages for reactive collision avoidance
+Xb-Build-Date: Sat, 10 Oct 2026 20:59:37 +0000
+
+Package: ros-jazzy-mrs-cmake
+Version: 2:1.0.0-0noble.20261010.202734~git.d20d6f2.base.2f3b123b
+Architecture: amd64
+Maintainer: "pum1k" <55055380+pum1k@users.noreply.github.com>
+Installed-Size: 48
+Depends: ros-jazzy-ament-cmake
+Filename: ./ros-jazzy-mrs-cmake_1.0.0-0noble.20261010.202734~git.d20d6f2.base.2f3b123b_amd64.deb
+Size: 6804
+MD5sum: c8c71d3f32f23765e695d209597af4f1
+SHA1: d973fd8854a826cdb5e373df8fb2c431058909df
+SHA256: 88d2cc254c3ad0d72d7767af53a8da320b9495458d75738b197f16792c933e0b
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_cmake/tree/d20d6f2b79452503daac03f7f75b7b2ccbd4203a
+Description: MRS CMake utilities
+Xb-Build-Date: Sat, 10 Oct 2026 20:27:36 +0000
+
+Package: ros-jazzy-mrs-gazebo-common-resources
+Version: 2:2.0.0-0noble.20261010.202749~git.615b507.base.2f3b123b
+Architecture: amd64
+Maintainer: "Vojtech Spurny" <vojtech.spurny@fel.cvut.cz>
+Installed-Size: 9517
+Depends: libc6 (>= 2.32), libgcc-s1 (>= 3.3.1), libprotobuf32t64 (>= 3.21.12), libstdc++6 (>= 13.1), ros-jazzy-gz-common-vendor, ros-jazzy-gz-msgs-vendor, ros-jazzy-gz-sim-vendor, ros-jazzy-gz-transport-vendor, ros-jazzy-sdformat-vendor, libeigen3-dev, ros-jazzy-geometry-msgs, ros-jazzy-rclcpp, ros-jazzy-ros-gz, ros-jazzy-std-msgs, ros-jazzy-tf2, ros-jazzy-tf2-msgs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-mrs-gazebo-common-resources_2.0.0-0noble.20261010.202749~git.615b507.base.2f3b123b_amd64.deb
+Size: 9334684
+MD5sum: b57840ac86f105d51411cb4811414041
+SHA1: fd5409918c35124d109b8ea975d883e8d80bba17
+SHA256: 3bc6c5995d998e9010414e1f1f96570c4b2561fe7a59c4e04236b26c44be425d
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_gazebo_common_resources/tree/615b507a990026ab4640938b9b5ef1631157154d
+Description: This package contains common gazebo files (worlds, models and plugins) for the MRS system.
+Xb-Build-Date: Sat, 10 Oct 2026 20:28:16 +0000
+
+Package: ros-jazzy-mrs-icm-imu-driver
+Version: 2:1.0.0-0noble.20261010.205651~git.2c5c0f3.base.2f3b123b
+Architecture: amd64
+Maintainer: "Daniel Hert" <hert@fly4future.com>
+Installed-Size: 284
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-mrs-lib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-sensor-msgs
+Filename: ./ros-jazzy-mrs-icm-imu-driver_1.0.0-0noble.20261010.205651~git.2c5c0f3.base.2f3b123b_amd64.deb
+Size: 81550
+MD5sum: e20e89fb9a30953652f4cce9033d6a22
+SHA1: 24f4607cfb8ba7eac9d148072032d35a25991cd1
+SHA256: de55441ad80e092115bde6d2d94f50f509f192b6f3d0177aaf93dd6d80aa63c8
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_icm_imu_driver/tree/2c5c0f3b177ae9dc937f7bce9cd0190f63ed4e81
+Description: ICM-42688-P IMU driver
+Xb-Build-Date: Sat, 10 Oct 2026 20:57:14 +0000
+
+Package: ros-jazzy-mrs-lib
+Version: 2:2.0.0-0noble.20250311.202632~git.b7742ff.base.d6f0b5bc
+Architecture: arm64
+Maintainer: Matous Vrba <matous.vrba@fel.cvut.cz>
+Installed-Size: 2408
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libopencv-dev, ros-jazzy-geometry-msgs, ros-jazzy-launch-ros, ros-jazzy-mrs-msgs, ros-jazzy-pcl-ros, ros-jazzy-rclcpp, ros-jazzy-std-msgs, ros-jazzy-tf2-geometry-msgs, ros-jazzy-visualization-msgs
+Filename: ./ros-jazzy-mrs-lib_2.0.0-0noble.20250311.202632~git.b7742ff.base.d6f0b5bc_arm64.deb
+Size: 441370
+MD5sum: 84a3657faa022095b0d1c79fa88ca517
+SHA1: bfce95e471b1fa007f5b29ff98c1adf9fc86300a
+SHA256: d7f6b1543ae3e0dc53086f27484403a272a49fbe788756c2c0f5abd715ea3e48
+Section: misc
+Priority: optional
+Description: MRS C++ libraries
+
+Package: ros-jazzy-mrs-lib
+Version: 2:2.0.0-0noble.20261010.204445~git.d1020e1.base.2f3b123b
+Architecture: amd64
+Maintainer: "Matous Vrba" <matous.vrba@fel.cvut.cz>
+Installed-Size: 2627
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libboost-dev, libeigen3-dev, libyaml-cpp-dev, ros-jazzy-ament-cmake-core, ros-jazzy-geometry-msgs, ros-jazzy-launch-ros, ros-jazzy-mrs-cmake, ros-jazzy-mrs-msgs, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-rosidl-default-generators, ros-jazzy-rosidl-default-runtime, ros-jazzy-std-msgs, ros-jazzy-tf2-eigen, ros-jazzy-tf2-geometry-msgs, ros-jazzy-visualization-msgs
+Filename: ./ros-jazzy-mrs-lib_2.0.0-0noble.20261010.204445~git.d1020e1.base.2f3b123b_amd64.deb
+Size: 636872
+MD5sum: 0e86c0d62575efd80ac27da629622fd8
+SHA1: 4307339bc7f948933b6475af829cf9fd7171b387
+SHA256: fe2308a063938566f56e2e9deb29eaf3d9a338a899769bf19af170625271d389
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_lib/tree/d1020e1c5a1e8b60e72f420b74f9de3f23ca6eb4
+Description: MRS C++ libraries
+Xb-Build-Date: Sat, 10 Oct 2026 20:46:25 +0000
+
+Package: ros-jazzy-mrs-modules-msgs
+Version: 2:2.0.0-0noble.20261010.202748~git.f8e74c4.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 5973
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 11), ros-jazzy-fastcdr, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-rclcpp, ros-jazzy-rosidl-default-generators, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs
+Filename: ./ros-jazzy-mrs-modules-msgs_2.0.0-0noble.20261010.202748~git.f8e74c4.base.2f3b123b_amd64.deb
+Size: 408280
+MD5sum: c3e469a30f45045f5774d06062cc6439
+SHA1: 47e01a419ce43bc051449d83e31c51f5be664ff2
+SHA256: 64b0e600fb253627f27192f64ef228c9bdc95b17d378cb37f7f4be8d9ea9a083
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_modules_msgs/tree/f8e74c471213014629e48e003d2f869cc0670f49
+Description: The mrs_modules_msgs package
+Xb-Build-Date: Sat, 10 Oct 2026 20:29:14 +0000
+
+Package: ros-jazzy-mrs-mpc-solvers
+Version: 2:1.0.0-0noble.20260124.100957~on.push.build.git.6a4df1a.base.eef0bbd9
+Architecture: arm64
+Maintainer: Tomas Baca <tomas.baca@fel.cvut.cz>
+Installed-Size: 801
+Depends: libc6 (>= 2.27), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11), libeigen3-dev, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-mrs-mpc-solvers_1.0.0-0noble.20260124.100957~on.push.build.git.6a4df1a.base.eef0bbd9_arm64.deb
+Size: 333354
+MD5sum: d543a82d3f5b75c5d3132f03a05b0b87
+SHA1: 7a818f28bbc5693900ef80a7f46dff4f7538a045
+SHA256: bd6701f8b3e1392cb688f3e06e53377533366c70ef6e4889380d694193bf272b
+Section: misc
+Priority: optional
+Description: The mpc_solvers package
+
+Package: ros-jazzy-mrs-mpc-solvers
+Version: 2:1.0.0-0noble.20261010.202752~git.f173ea2.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 1234
+Depends: libc6 (>= 2.27), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11), libeigen3-dev, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components
+Filename: ./ros-jazzy-mrs-mpc-solvers_1.0.0-0noble.20261010.202752~git.f173ea2.base.2f3b123b_amd64.deb
+Size: 230978
+MD5sum: 4f9f73ba6d753b574d72515f7d36a900
+SHA1: 2dc8685f07ffa48050e733ae4594c129abe14da3
+SHA256: bb18f259845383c44897046c38bb30dc083701b45ca7e123059bed713e05e28a
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_mpc_solvers/tree/f173ea285cce7bbbfc1dbc382e31c761f44b0963
+Description: The mpc_solvers package
+Xb-Build-Date: Sat, 10 Oct 2026 20:37:09 +0000
+
+Package: ros-jazzy-mrs-msgs
+Version: 2:2.0.0-0noble.20261010.202805~git.eef7f52.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 28553
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 11), ros-jazzy-fastcdr, ros-jazzy-builtin-interfaces, ros-jazzy-diagnostic-msgs, ros-jazzy-geometry-msgs, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs
+Filename: ./ros-jazzy-mrs-msgs_2.0.0-0noble.20261010.202805~git.eef7f52.base.2f3b123b_amd64.deb
+Size: 1732682
+MD5sum: ee8aae30d363ab3e94b294073b12d75e
+SHA1: 395575ae92b07804a18a01a07fa14d6fc99642ea
+SHA256: 4c5fe1d9bbe6ddbd44c659ba695d1047a3b5a3dbc323d28177754303ac2c903a
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_msgs/tree/eef7f52b1736f2dca56910650f55076c2dba9c5b
+Description: This package included essential custom messages used by different parts of the mrs-uav-system.
+Xb-Build-Date: Sat, 10 Oct 2026 20:33:46 +0000
+
+Package: ros-jazzy-mrs-multirotor-simulator
+Version: 2:2.0.0-0noble.20250311.162818~git.128f428.base.d6f0b5bc
+Architecture: arm64
+Maintainer: klaxalk <tomas.baca@fel.cvut.cz>
+Installed-Size: 7005
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-mrs-multirotor-simulator_2.0.0-0noble.20250311.162818~git.128f428.base.d6f0b5bc_arm64.deb
+Size: 738812
+MD5sum: 94633e249ec7d45adad428b135d31c82
+SHA1: c9adf9cc902792ee24c4c0a80dce1a66054c7dab
+SHA256: 265923f66bdd5e2b883b1d8a57ae8dd8648d680d4a2e9931775b2b649f7a2182
+Section: misc
+Priority: optional
+Description: The MRS Multirotor simulator
+
+Package: ros-jazzy-mrs-multirotor-simulator
+Version: 2:2.0.0-0noble.20261010.211759~git.f23b635.base.2f3b123b
+Architecture: amd64
+Maintainer: "klaxalk" <tomas.baca@fel.cvut.cz>
+Installed-Size: 8474
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libtinyxml2-10 (>= 10.0.0), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-backward-ros, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-multirotor-simulator-core, ros-jazzy-mrs-uav-hw-api, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-mrs-multirotor-simulator_2.0.0-0noble.20261010.211759~git.f23b635.base.2f3b123b_amd64.deb
+Size: 1105232
+MD5sum: 8de5c1381e3714d25eceae4b11869edd
+SHA1: fbf1cd478a36f1edfff39858aa8ebb55965bfdd8
+SHA256: a3e30442c6b206a95676cd102de40b8c404ef77ee538afe2b13366109d187e8f
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_multirotor_simulator/tree/f23b63526f3728ee71c7a09e24760ab66a0ccd7d
+Description: The MRS Multirotor simulator
+Xb-Build-Date: Sat, 10 Oct 2026 21:22:25 +0000
+
+Package: ros-jazzy-mrs-multirotor-simulator-core
+Version: 2:2.0.0-0noble.20261010.211751~git.f23b635.base.2f3b123b
+Architecture: amd64
+Maintainer: "klaxalk" <tomas.baca@fel.cvut.cz>
+Installed-Size: 213
+Depends: libboost-all-dev, libeigen3-dev
+Filename: ./ros-jazzy-mrs-multirotor-simulator-core_2.0.0-0noble.20261010.211751~git.f23b635.base.2f3b123b_amd64.deb
+Size: 34256
+MD5sum: 92d4c0e2d21b70ae7bedeb293e1e4351
+SHA1: 4f8fd3ba60bcea086ba5963ef1370c54d7377f44
+SHA256: efb16aa5c05cb459b2442a195b0ff371b2bc1552dbfc9a66770c169c92f680b1
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_multirotor_simulator/tree/f23b63526f3728ee71c7a09e24760ab66a0ccd7d
+Description: The MRS Multirotor simulator core
+Xb-Build-Date: Sat, 10 Oct 2026 21:17:56 +0000
+
+Package: ros-jazzy-mrs-multirotor-simulator-plugins
+Version: 2:2.0.0-0noble.20261010.212230~git.f23b635.base.2f3b123b
+Architecture: amd64
+Maintainer: "klaxalk" <tomas.baca@fel.cvut.cz>
+Installed-Size: 327
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-mrs-lib, ros-jazzy-mrs-multirotor-simulator, ros-jazzy-mrs-multirotor-simulator-core, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components
+Filename: ./ros-jazzy-mrs-multirotor-simulator-plugins_2.0.0-0noble.20261010.212230~git.f23b635.base.2f3b123b_amd64.deb
+Size: 75458
+MD5sum: e89a90e91f311c05228b69e0c1c6c3df
+SHA1: 9468d5d9cbc1944f6cbac264472ae8a40feb376f
+SHA256: 240023be61d01c35c0793226f221907b9f96fead6da66c8592312037fdc3248b
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_multirotor_simulator/tree/f23b63526f3728ee71c7a09e24760ab66a0ccd7d
+Description: Example world and UAV plugins for the MRS Multirotor simulator
+Xb-Build-Date: Sat, 10 Oct 2026 21:23:04 +0000
+
+Package: ros-jazzy-mrs-octomap-mapping-planning
+Version: 2:2.0.0-0noble.20261010.211728~git.4f75e6a.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 139
+Depends: ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-octomap-planner, ros-jazzy-mrs-octomap-server, ros-jazzy-octomap-rviz-plugins
+Filename: ./ros-jazzy-mrs-octomap-mapping-planning_2.0.0-0noble.20261010.211728~git.4f75e6a.base.2f3b123b_amd64.deb
+Size: 15538
+MD5sum: 1e14e6cd809cc6162655021c4249035d
+SHA1: 4d701ec655fb57e92b86210aaf0e04f7144e6aa4
+SHA256: c0c2edf277e311414b1b264dac54340ff09a7d0ddc28ddcf5faf83308d62a1cb
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_octomap_mapping_planning/tree/4f75e6a94fec69bf236f68528921fe38dada3d5f
+Description: MRS Octomap Mapping Planning
+Xb-Build-Date: Sat, 10 Oct 2026 21:17:30 +0000
+
+Package: ros-jazzy-mrs-octomap-planner
+Version: 2:1.0.0-0noble.20261010.210758~git.eccf363.base.2f3b123b
+Architecture: amd64
+Maintainer: "Petr Stibinger" <stibipet@fel.cvut.cz>
+Installed-Size: 2865
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libgomp1 (>= 6), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-dynamic-edt-3d, ros-jazzy-octomap, ros-jazzy-geometry-msgs, ros-jazzy-mrs-lib, ros-jazzy-mrs-modules-msgs, ros-jazzy-mrs-msgs, ros-jazzy-mrs-subt-planning-lib, ros-jazzy-nav-msgs, ros-jazzy-octomap-msgs, ros-jazzy-octomap-ros, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-mrs-octomap-planner_1.0.0-0noble.20261010.210758~git.eccf363.base.2f3b123b_amd64.deb
+Size: 558830
+MD5sum: f2f780fc8977818ad5377edde0f6f457
+SHA1: f7d518af4e0297822920f0ed53a092563d468fa4
+SHA256: 6af65b77012ee35860b8b0d3503e8245d17eb385a6bfa167b86673626733ef5f
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_octomap_planner/tree/eccf363058f18b2766a5a1bb96ac61cea304b492
+Description: The Octomap Planner package
+Xb-Build-Date: Sat, 10 Oct 2026 21:10:04 +0000
+
+Package: ros-jazzy-mrs-octomap-server
+Version: 2:2.0.0-0noble.20261010.205407~git.b5385bf.base.2f3b123b
+Architecture: amd64
+Maintainer: "Petr Stibinger" <petr.stibinger@fel.cvut.cz>
+Installed-Size: 2223
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libgomp1 (>= 6), liborocos-kdl1.5 (>= 1.5.1), libpcl-common1.14 (>= 1.14.0+dfsg), libpcl-filters1.14 (>= 1.14.0+dfsg), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-octomap, ros-jazzy-geometry-msgs, ros-jazzy-laser-geometry, ros-jazzy-mrs-lib, ros-jazzy-mrs-modules-msgs, ros-jazzy-mrs-msgs, ros-jazzy-octomap-msgs, ros-jazzy-pcl-conversions, ros-jazzy-pcl-ros, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs
+Filename: ./ros-jazzy-mrs-octomap-server_2.0.0-0noble.20261010.205407~git.b5385bf.base.2f3b123b_amd64.deb
+Size: 378700
+MD5sum: 13aac9988fee0a00dffa0a77a80406b5
+SHA1: 08b40757c4cf91d8742e5043ac2723306b6b25c5
+SHA256: 662fd145f7499611bcd1b8410f82cc884710f1a098b61b45345933a65bcde4ab
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_octomap_server/tree/b5385bfa238f478a092c0562d5d27473e6ebf039
+Description: MRS Octomap server
+Xb-Build-Date: Sat, 10 Oct 2026 20:55:49 +0000
+
+Package: ros-jazzy-mrs-odometry-republisher
+Version: 2:2.0.0-0noble.20261010.205454~git.1fd98da.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 698
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-tf2, ros-jazzy-tf2-eigen, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-mrs-odometry-republisher_2.0.0-0noble.20261010.205454~git.1fd98da.base.2f3b123b_amd64.deb
+Size: 172756
+MD5sum: f13df4c5d72c7bab5545e61f09757921
+SHA1: db671556b8763e1202a997977975037c507c937b
+SHA256: 0f0972e3c79e396e764bbc7f2007cf18bc80263ac2e30250d7943c0fb47014cf
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_utils/tree/1fd98da24bb85150c91ea33a21d0421316f2d6b5
+Description: mrs_odometry_republisher
+Xb-Build-Date: Sat, 10 Oct 2026 20:55:34 +0000
+
+Package: ros-jazzy-mrs-open-vins-core
+Version: 2:2.0.0-0noble.20261010.220646~git.17b8817.base.2f3b123b
+Architecture: amd64
+Maintainer: "ubuntu" <ubuntu@todo.todo>
+Installed-Size: 2534
+Depends: ros-jazzy-mrs-open-vins-estimator-plugin, ros-jazzy-mrs-vins-imu-filter, ros-jazzy-mrs-vins-republisher, ros-jazzy-ov-core, ros-jazzy-ov-eval, ros-jazzy-ov-init, ros-jazzy-ov-msckf
+Filename: ./ros-jazzy-mrs-open-vins-core_2.0.0-0noble.20261010.220646~git.17b8817.base.2f3b123b_amd64.deb
+Size: 36458
+MD5sum: f160808a720c5e0cb5f7996c1d917c7a
+SHA1: 049d0aaf52511505c712c189fced57cee18f6358
+SHA256: 051a848425e5da89525dbd2d1174efc4b2d5ea46d4e3ec3088271361ab1a546d
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_open_vins_core/tree/17b881751c2e88e418300684b48fb0da8eff3569
+Description: TODO: Package description
+Xb-Build-Date: Sat, 10 Oct 2026 22:06:53 +0000
+
+Package: ros-jazzy-mrs-open-vins-estimator-plugin
+Version: 2:2.0.0-0noble.20261010.214538~git.720206c.base.2f3b123b
+Architecture: amd64
+Maintainer: "Matej Petrlik" <petrlmat@fel.cvut.cz>
+Installed-Size: 1435
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), ros-jazzy-mrs-lib, ros-jazzy-mrs-uav-managers, ros-jazzy-mrs-uav-state-estimators, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components
+Filename: ./ros-jazzy-mrs-open-vins-estimator-plugin_2.0.0-0noble.20261010.214538~git.720206c.base.2f3b123b_amd64.deb
+Size: 143348
+MD5sum: b6eb594e63a70f43aeb8c9635c2932e2
+SHA1: a260ba603f55b6b91c34782f4e097a8cff3a3f60
+SHA256: 82406ba4dcb2cb8fa7684257e5d25571e4225c8a46ddc9ea638add2eeae0ba89
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_open_vins_estimator_plugin/tree/720206cf3eded91ffc47ee7708e287461a4d96ea
+Description: MRS open_vins state estimator plugin
+Xb-Build-Date: Sat, 10 Oct 2026 21:46:08 +0000
+
+Package: ros-jazzy-mrs-pcl-tools
+Version: 2:2.0.0-0noble.20261010.205728~git.bbd3328.base.2f3b123b
+Architecture: amd64
+Maintainer: "Pavel Petracek" <petrapa6@fel.cvut.cz>
+Installed-Size: 2414
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 4.3), libpcl-common1.14 (>= 1.14.0+dfsg), libpcl-features1.14 (>= 1.14.0+dfsg), libpcl-filters1.14 (>= 1.14.0+dfsg), libpcl-io1.14 (>= 1.14.0+dfsg), libpcl-search1.14 (>= 1.14.0+dfsg), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-fastcdr, libeigen3-dev, ros-jazzy-geometry-msgs, ros-jazzy-image-transport, ros-jazzy-mrs-lib, ros-jazzy-mrs-modules-msgs, ros-jazzy-mrs-msgs, ros-jazzy-ouster-ros, ros-jazzy-pcl-conversions, ros-jazzy-pcl-ros, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-tf2-eigen, ros-jazzy-visualization-msgs
+Filename: ./ros-jazzy-mrs-pcl-tools_2.0.0-0noble.20261010.205728~git.bbd3328.base.2f3b123b_amd64.deb
+Size: 397494
+MD5sum: c385026303007ca2d98ce1f7940af4b5
+SHA1: 7468b83ec925e7fd191b9ebce84d834ef6d3f19a
+SHA256: 5d1b3ca5305644b9df784f641d5289734cf0c6f9eba6bb711577b34714d93c94
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_pcl_tools/tree/bbd332875d67feeae1d77ebc413c3f2776828de1
+Description: Pointcloud tools package
+Xb-Build-Date: Sat, 10 Oct 2026 21:00:19 +0000
+
+Package: ros-jazzy-mrs-point-lio-core
+Version: 2:2.0.0-0noble.20261010.215944~git.0f3e329.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 193
+Depends: ros-jazzy-mrs-point-lio-estimator-plugin, ros-jazzy-point-lio
+Filename: ./ros-jazzy-mrs-point-lio-core_2.0.0-0noble.20261010.215944~git.0f3e329.base.2f3b123b_amd64.deb
+Size: 21380
+MD5sum: 1af35503a92b235eb98fff826844497f
+SHA1: 3b5a7612bbb499005209a4f37afcceeeaf45437a
+SHA256: 69e50e2365f210d3216c47921d193bfb0ee4353a38af66fbf68a6cbc33f800e8
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_point_lio_core/tree/0f3e329bd33aeb25d7da67c3381f0ec645de5769
+Description: MRS PointLIO core
+Xb-Build-Date: Sat, 10 Oct 2026 21:59:51 +0000
+
+Package: ros-jazzy-mrs-point-lio-estimator-plugin
+Version: 2:2.0.0-0noble.20261010.214536~git.b43af57.base.2f3b123b
+Architecture: amd64
+Maintainer: "Matej Petrlik" <petrlmat@fel.cvut.cz>
+Installed-Size: 1428
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), ros-jazzy-mrs-lib, ros-jazzy-mrs-uav-managers, ros-jazzy-mrs-uav-state-estimators, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components
+Filename: ./ros-jazzy-mrs-point-lio-estimator-plugin_2.0.0-0noble.20261010.214536~git.b43af57.base.2f3b123b_amd64.deb
+Size: 138678
+MD5sum: 396827584437805c170d774240bca4b5
+SHA1: 07edc1341386df62f7fb7ab05eaf7014818d78e8
+SHA256: 1d37eb829a62d93f8af6bc99f7742510d3cbd47d6619847c4135242012295ab6
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_point_lio_estimator_plugin/tree/b43af57300b43a29ab6bfa1c68a9442fb869cea1
+Description: MRS Point LIO state estimator plugin
+Xb-Build-Date: Sat, 10 Oct 2026 21:46:07 +0000
+
+Package: ros-jazzy-mrs-realsense
+Version: 2:2.0.0-0noble.20261010.190839~git.b767534.base.bff57216
+Architecture: arm64
+Maintainer: "Jakub Lenner" <jakub.lenner@fel.cvut.cz>
+Installed-Size: 100
+Depends: ros-jazzy-builtin-interfaces, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-rclcpp, ros-jazzy-realsense2-camera
+Filename: ./ros-jazzy-mrs-realsense_2.0.0-0noble.20261010.190839~git.b767534.base.bff57216_arm64.deb
+Size: 14306
+MD5sum: 032bca918ea6077bc147cb614edd7703
+SHA1: 656805a773f5019dc5311eb9e155206342028f4a
+SHA256: 0daabdac62712fdd2fc648dfdfbdb0a10896a8948af491000fa35fd58cb45b8c
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/realsense/tree/b7675348e18f20f4043b2457e8fc3631d0893d54
+Description: MRS Realsense
+Xb-Build-Date: Sat, 10 Oct 2026 19:08:43 +0000
+
+Package: ros-jazzy-mrs-realsense
+Version: 2:2.0.0-0noble.20261010.191206~git.b767534.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Jakub Lenner" <jakub.lenner@fel.cvut.cz>
+Installed-Size: 100
+Depends: ros-jazzy-builtin-interfaces, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-rclcpp, ros-jazzy-realsense2-camera
+Filename: ./ros-jazzy-mrs-realsense_2.0.0-0noble.20261010.191206~git.b767534.base.b7fb6f40_amd64.deb
+Size: 14318
+MD5sum: b8f1c4af336d7176a6bd8b9fe7da5c09
+SHA1: e74e05d9e2b637ba97add0d68acc06126b77232c
+SHA256: 5af529593dcaff027bea6cf4e3f4ac080cc3948b0aa85b372adbff8c211ec2c6
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/realsense/tree/b7675348e18f20f4043b2457e8fc3631d0893d54
+Description: MRS Realsense
+Xb-Build-Date: Sat, 10 Oct 2026 19:12:09 +0000
+
+Package: ros-jazzy-mrs-rviz-plugins
+Version: 2:2.0.0-0noble.20261010.204515~git.06c70d9.base.2f3b123b
+Architecture: amd64
+Maintainer: "Afzal Ahmad" <afzal.ahmad@fel.cvut.cz>
+Installed-Size: 1433
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libopencv-core406t64 (>= 4.6.0+dfsg), libqt5core5t64 (>= 5.15.1), libstdc++6 (>= 13.1), libtinyxml2-10 (>= 10.0.0), ros-jazzy-rviz-ogre-vendor, libpcl-dev, qt6-base-dev, ros-jazzy-cv-bridge, ros-jazzy-eigen3-cmake-module, ros-jazzy-image-transport, ros-jazzy-message-filters, ros-jazzy-mrs-msgs, ros-jazzy-pcl-conversions, ros-jazzy-pcl-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rviz-common, ros-jazzy-sensor-msgs, ros-jazzy-sophus, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-mrs-rviz-plugins_2.0.0-0noble.20261010.204515~git.06c70d9.base.2f3b123b_amd64.deb
+Size: 317374
+MD5sum: bb987d19e6140921525d0eccfdb599b0
+SHA1: 4000d8c0e991525764570d628c2a95c99330bd5a
+SHA256: b3bae236093023669b87e6bb6b15d4a0ef898fb4fe689537be3b66f13b5c94ab
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_rviz_plugins/tree/06c70d9d01f32de4bee4476e979dc3fcd40903cd
+Description: Plugin for rviz to work with the MRS system
+Xb-Build-Date: Sat, 10 Oct 2026 20:46:34 +0000
+
+Package: ros-jazzy-mrs-sensor-info
+Version: 2:1.0.0-0noble.20261010.205653~git.1fd98da.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 285
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-mrs-lib, ros-jazzy-mrs-modules-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components
+Filename: ./ros-jazzy-mrs-sensor-info_1.0.0-0noble.20261010.205653~git.1fd98da.base.2f3b123b_amd64.deb
+Size: 83614
+MD5sum: 493027fede0b4070cdde3c60a40c6625
+SHA1: c0f6301cb7e48e814ca553ca2d99eb192c93e199
+SHA256: fcd6e541f21bfb889eed6ff82ab6e8ec31d65d70f8f667a4c885f795b89e9b75
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_utils/tree/1fd98da24bb85150c91ea33a21d0421316f2d6b5
+Description: The MRS Sensor Info package
+Xb-Build-Date: Sat, 10 Oct 2026 20:57:17 +0000
+
+Package: ros-jazzy-mrs-serial
+Version: 2:2.0.0-0noble.20261010.205357~git.188d6cd.base.2f3b123b
+Architecture: amd64
+Maintainer: "ubuntu" <ubuntu@todo.todo>
+Installed-Size: 981
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-mrs-lib, ros-jazzy-mrs-modules-msgs, ros-jazzy-mrs-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-sensor-msgs, ros-jazzy-std-srvs
+Filename: ./ros-jazzy-mrs-serial_2.0.0-0noble.20261010.205357~git.188d6cd.base.2f3b123b_amd64.deb
+Size: 221416
+MD5sum: 0016f7a7d12aeb0e4f9625da7f3de2de
+SHA1: b465db2e836f79fbd31cb0ede97dc01caf296f55
+SHA256: 609b53d163b623e43d5bb6e555c423bf25f6545e51cc9db036d38b778fddfd04
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_serial/tree/188d6cd450f1da238e0357e7a91d637a2c1074d6
+Description: TODO: Package description
+Xb-Build-Date: Sat, 10 Oct 2026 20:54:21 +0000
+
+Package: ros-jazzy-mrs-subt-planning-lib
+Version: 2:0.0.4-0noble.20261010.205408~git.a84157e.base.2f3b123b
+Architecture: amd64
+Maintainer: "Vit Kratky" <kratkvit@fel.cvut.cz>
+Installed-Size: 363
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libpcl-common1.14 (>= 1.14.0+dfsg), libpcl-io1.14 (>= 1.14.0+dfsg), libpcl-kdtree1.14 (>= 1.14.0+dfsg), libpcl-octree1.14 (>= 1.14.0+dfsg), libstdc++6 (>= 13.1), libpcl-dev, ros-jazzy-mrs-lib, ros-jazzy-octomap-msgs, ros-jazzy-octomap-ros, ros-jazzy-pcl-conversions, ros-jazzy-pcl-ros, ros-jazzy-rclcpp, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-tf2, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-mrs-subt-planning-lib_0.0.4-0noble.20261010.205408~git.a84157e.base.2f3b123b_amd64.deb
+Size: 109246
+MD5sum: dea11cf1625a223eccce39881426ebcb
+SHA1: e78f02fbc458311064e6a820b85e19c25bc3089b
+SHA256: b7091e244652f1cb4a279dc272fdbabb2c6d8f331e4b2b3fa4ef4d645a8456ca
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_subt_planning_lib/tree/a84157e00ec71bd616e5d9da3e82efaa76a329e0
+Description: Package for planning in darpa SubT challenge
+Xb-Build-Date: Sat, 10 Oct 2026 20:54:45 +0000
+
+Package: ros-jazzy-mrs-tf-connector
+Version: 2:1.0.0-0noble.20261010.205537~git.1fd98da.base.2f3b123b
+Architecture: amd64
+Maintainer: "Matouš Vrba" <matous.vrba@fel.cvut.cz>
+Installed-Size: 813
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-mrs-lib, ros-jazzy-mrs-modules-msgs, ros-jazzy-mrs-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-tf2, ros-jazzy-tf2-ros, ros-jazzy-tf2-sensor-msgs, ros-jazzy-visualization-msgs
+Filename: ./ros-jazzy-mrs-tf-connector_1.0.0-0noble.20261010.205537~git.1fd98da.base.2f3b123b_amd64.deb
+Size: 208696
+MD5sum: 63f8e76183b9bd3e50aaab64a4726c6d
+SHA1: b2b5353d6228bc2efd3b9429520e2c9e8d3f760f
+SHA256: 2d9d6b5a43bcceab2e1af5cc915f4e8b9f5ae4bf83bc19f3d96384c2f47f4f4b
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_utils/tree/1fd98da24bb85150c91ea33a21d0421316f2d6b5
+Description: A package for connecting two transform trees via root frames
+Xb-Build-Date: Sat, 10 Oct 2026 20:56:23 +0000
+
+Package: ros-jazzy-mrs-tf-mirror
+Version: 2:1.0.0-0noble.20261010.205410~git.1fd98da.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 745
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-mrs-lib, ros-jazzy-mrs-modules-msgs, ros-jazzy-mrs-msgs, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-tf2, ros-jazzy-tf2-ros, ros-jazzy-tf2-sensor-msgs
+Filename: ./ros-jazzy-mrs-tf-mirror_1.0.0-0noble.20261010.205410~git.1fd98da.base.2f3b123b_amd64.deb
+Size: 183026
+MD5sum: fad70a539640853c97460e1b0891006e
+SHA1: 43f4c889b2df16d312e4ca394a07ce47fee0e2be
+SHA256: 97ed88b84f31b26cd4ef02566920ac9ea35e758d8b90acf7233cca86bcbe7439
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_utils/tree/1fd98da24bb85150c91ea33a21d0421316f2d6b5
+Description: The TF Mirror package
+Xb-Build-Date: Sat, 10 Oct 2026 20:54:50 +0000
+
+Package: ros-jazzy-mrs-tf-reconfigure
+Version: 2:1.0.0-0noble.20261010.205626~git.1fd98da.base.2f3b123b
+Architecture: amd64
+Maintainer: "Daniel Hert" <daniel.hert@fel.cvut.cz>
+Installed-Size: 300
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-mrs-lib, ros-jazzy-mrs-modules-msgs, ros-jazzy-mrs-msgs, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-sensor-msgs, ros-jazzy-tf2, ros-jazzy-tf2-ros, ros-jazzy-tf2-sensor-msgs
+Filename: ./ros-jazzy-mrs-tf-reconfigure_1.0.0-0noble.20261010.205626~git.1fd98da.base.2f3b123b_amd64.deb
+Size: 83464
+MD5sum: 6d227420e18e3fb46e00672292d42b80
+SHA1: 3006a027a5c9430818004d54d56e96b7f608b959
+SHA256: 04a3b5a2e85d68c35163c5a04bced102068650bd463ed67acf0ac70e61eca628
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_utils/tree/1fd98da24bb85150c91ea33a21d0421316f2d6b5
+Description: The mrs_tf_reconfigure package
+Xb-Build-Date: Sat, 10 Oct 2026 20:56:50 +0000
+
+Package: ros-jazzy-mrs-uav-ardupilot-api
+Version: 2:2.0.0-0noble.20261010.211800~git.1634de4.base.2f3b123b
+Architecture: amd64
+Maintainer: "Frantisek Nekovar" <nekovfra@fel.cvut.cz>
+Installed-Size: 3203
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), mrs-geographiclib-datasets, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mavros, ros-jazzy-mavros-extras, ros-jazzy-mavros-msgs, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-hw-api, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-mrs-uav-ardupilot-api_2.0.0-0noble.20261010.211800~git.1634de4.base.2f3b123b_amd64.deb
+Size: 447340
+MD5sum: 725b1c571cb531f1b51080afdc46c0c6
+SHA1: 3565b1182b05e4e992e2f8151d296ee0e02233aa
+SHA256: 9d9a3d06d4444dff85839fe952785be7ea4c369a43102e7e53fca92b815a15dd
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_ardupilot_api/tree/1634de45ced67b59c52759315c30a1af30f8b115
+Description: ArduPilot API for MRS UAV System
+Xb-Build-Date: Sat, 10 Oct 2026 21:20:03 +0000
+
+Package: ros-jazzy-mrs-uav-autostart
+Version: 2:2.0.0-0noble.20261010.210742~git.36748a6.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 2899
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-backward-ros, ros-jazzy-builtin-interfaces, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-testing, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-std-msgs, ros-jazzy-std-srvs
+Filename: ./ros-jazzy-mrs-uav-autostart_2.0.0-0noble.20261010.210742~git.36748a6.base.2f3b123b_amd64.deb
+Size: 405414
+MD5sum: c4595febe8d8739a0ed340ecf8a4293e
+SHA1: b2c5cafce1faf948140861ec7380846a02f47ad7
+SHA256: 4e09c736418064fe4c041f7a87007a9a37d728c0ecccf45fc307386d559889f5
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_autostart/tree/36748a6349d011259a9bcb99d4936d8dbf75f713
+Description: MRS UAV Autostart
+Xb-Build-Date: Sat, 10 Oct 2026 21:08:50 +0000
+
+Package: ros-jazzy-mrs-uav-bluetooth
+Version: 2:0.3.0-0noble.20261010.202737~git.636abdf.base.2f3b123b
+Architecture: amd64
+Maintainer: "Vojtech Vrba" <vojtech.vrba@fel.cvut.cz>
+Installed-Size: 18238
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), mrs-libsdbus-c++ (>= 2.3.1), ros-jazzy-fastcdr, libyaml-cpp-dev, openssh-client, openssh-server, ros-jazzy-ament-index-cpp, ros-jazzy-ament-index-python, ros-jazzy-builtin-interfaces, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-nav-msgs, ros-jazzy-rcl-interfaces, ros-jazzy-rclcpp, ros-jazzy-rcpputils, ros-jazzy-rosidl-default-runtime, ros-jazzy-rosidl-runtime-cpp, ros-jazzy-rosidl-typesupport-introspection-cpp, ros-jazzy-std-msgs, ros-jazzy-std-srvs
+Filename: ./ros-jazzy-mrs-uav-bluetooth_0.3.0-0noble.20261010.202737~git.636abdf.base.2f3b123b_amd64.deb
+Size: 2262220
+MD5sum: b466b8dd84db71e9c5458cb19c448fc1
+SHA1: f8959e1fa2d666d71f428b3c9a246d757ab98379
+SHA256: 7e938bb40dc27ee867753dac5fd29601cff3321f7378edaa36e4bd8692b08dff
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_bluetooth/tree/636abdfb92ed04e3b54b7e6d97f6e0a9127ae731
+Description: ROS 2 Bluetooth support for MRS UAV System.
+Xb-Build-Date: Sat, 10 Oct 2026 20:31:14 +0000
+
+Package: ros-jazzy-mrs-uav-controllers
+Version: 2:2.0.0-0noble.20261010.213417~git.fcddfb2.base.2f3b123b
+Architecture: amd64
+Maintainer: "klaxalk" <tomas.baca@fel.cvut.cz>
+Installed-Size: 2603
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-mpc-solvers, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-managers, ros-jazzy-mrs-uav-testing, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-sensor-msgs
+Filename: ./ros-jazzy-mrs-uav-controllers_2.0.0-0noble.20261010.213417~git.fcddfb2.base.2f3b123b_amd64.deb
+Size: 522776
+MD5sum: d59ae1456d9c68f03a813092cf3fc826
+SHA1: 9e41c4f47603055ca0cfbb0657a87f1c6d780b3f
+SHA256: 048add962cc1ca5579c007f07b4d9507144a75e181de9e2db509a621aa085306
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_controllers/tree/fcddfb27eb54e8ac0e3aeea6162c834a0c0e76ac
+Description: MRS UAV Controllers
+Xb-Build-Date: Sat, 10 Oct 2026 21:36:03 +0000
+
+Package: ros-jazzy-mrs-uav-core
+Version: 2:2.0.0-0noble.20261010.214610~git.4e5e873.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 61
+Depends: moreutils, mrs-uav-shell-additions, ros-jazzy-builtin-interfaces, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-multirotor-simulator, ros-jazzy-mrs-uav-autostart, ros-jazzy-mrs-uav-controllers, ros-jazzy-mrs-uav-hw-api, ros-jazzy-mrs-uav-managers, ros-jazzy-mrs-uav-state-estimators, ros-jazzy-mrs-uav-status, ros-jazzy-mrs-uav-testing, ros-jazzy-mrs-uav-trackers, ros-jazzy-mrs-uav-trajectory-generation, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rmw-cyclonedds-cpp, ros-jazzy-rmw-zenoh-cpp, tmux, tmuxinator
+Filename: ./ros-jazzy-mrs-uav-core_2.0.0-0noble.20261010.214610~git.4e5e873.base.2f3b123b_amd64.deb
+Size: 7836
+MD5sum: e2aac3bce1b82a9adb3e739928afa6c5
+SHA1: f906d1c8e9484cb86334c80cfd711587bc6fb3a5
+SHA256: 1d8f283776acaabd82ed891294ca23b52aedafe15a577339190f74c4e29d985d
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_core/tree/4e5e8732debe8cd01638ba822c0395fe631711ba
+Description: MRS UAV Core
+Xb-Build-Date: Sat, 10 Oct 2026 21:46:14 +0000
+
+Package: ros-jazzy-mrs-uav-deployment
+Version: 2:2.0.0-0noble.20261010.202747~git.d7f5301.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 1081
+Depends: ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-mrs-uav-deployment_2.0.0-0noble.20261010.202747~git.d7f5301.base.2f3b123b_amd64.deb
+Size: 498236
+MD5sum: c88b7f2f349750b8d49c2095f1cdabff
+SHA1: aebda05d0652951e8e1abd3e25f5a94d73115a5e
+SHA256: 4e061d2dff28986515c5d14efc86165f2f70a9d5da8131d790ae6aea2b4a3548
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_deployment/tree/d7f530150142a10e8ed60605c241e846e16b7e24
+Description: MRS UAV Deployment
+Xb-Build-Date: Sat, 10 Oct 2026 20:27:57 +0000
+
+Package: ros-jazzy-mrs-uav-dji-tello-api
+Version: 2:2.0.0-0noble.20261010.211803~git.eb3a804.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 2172
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, python3-av, ros-jazzy-backward-ros, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mavros-msgs, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-hw-api, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclpy, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-tf-transformations
+Filename: ./ros-jazzy-mrs-uav-dji-tello-api_2.0.0-0noble.20261010.211803~git.eb3a804.base.2f3b123b_amd64.deb
+Size: 328208
+MD5sum: 6b3171b5237bd1e5fdc2de62e24e5ae3
+SHA1: b0d39b193d823be7151d4ed6fdbda1d6d8c06b03
+SHA256: 19e13dfa7d48667f1dac9975016200e6b0f0af0e54911a882c65d2c4b19598f5
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_dji_tello_api/tree/eb3a8045125ea7eb3f240a86a877ed9359d15327
+Description: DJI TELLO API for MRS UAV System
+Xb-Build-Date: Sat, 10 Oct 2026 21:19:15 +0000
+
+Package: ros-jazzy-mrs-uav-flightforge-simulator
+Version: 2:2.0.0-0noble.20261010.213429~git.c9a630f.base.2f3b123b
+Architecture: amd64
+Maintainer: "David Capek" <capekda4@fel.cvut.cz>
+Installed-Size: 5963
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-imgcodecs406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-fastcdr, libeigen3-dev, libomp-dev, ros-jazzy-backward-ros, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-image-transport, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-multirotor-simulator, ros-jazzy-mrs-uav-hw-api, ros-jazzy-nav-msgs, ros-jazzy-pcl-conversions, ros-jazzy-pcl-ros, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-rosgraph-msgs, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-stereo-image-proc
+Filename: ./ros-jazzy-mrs-uav-flightforge-simulator_2.0.0-0noble.20261010.213429~git.c9a630f.base.2f3b123b_amd64.deb
+Size: 834114
+MD5sum: 805c41fc446c6f6f356126d68b638b9b
+SHA1: b8aa82378dde16201089ee65af675e5d26e9da68
+SHA256: b898af980d15e4287fac022207c643d4dbf2dc314a88f3f683fbeb325effb011
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_unreal_simulation/tree/c9a630fcb16f15fa33982fefcf62e87ef1c4f859
+Description: The MRS FlightForge simulator
+Xb-Build-Date: Sat, 10 Oct 2026 21:37:47 +0000
+
+Package: ros-jazzy-mrs-uav-gazebo-simulator
+Version: 2:2.0.0-0noble.20261010.213422~git.525ad79.base.2f3b123b
+Architecture: amd64
+Maintainer: "Vojtech Spurny" <vojtech.spurny@fel.cvut.cz>
+Installed-Size: 55380
+Depends: python3-jinja2, ros-jazzy-mavros, ros-jazzy-mrs-gazebo-common-resources, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-px4-api, ros-jazzy-px4, ros-jazzy-rclpy, ros-jazzy-ros-gz, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-mrs-uav-gazebo-simulator_2.0.0-0noble.20261010.213422~git.525ad79.base.2f3b123b_amd64.deb
+Size: 10744376
+MD5sum: 00be1e6d6c57f569a382f13ea78a0c6b
+SHA1: 1b293ea98210ba8af9c1e886f946fa51dbdc48dd
+SHA256: a902602031e260dea9266a919ca1fd13ffd8c24c8e1507ab482221be11273f0d
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_gazebo_simulator/tree/525ad79272600af17e201b0f3f13805d1b8cdb58
+Description: The MRS UAV Gazebo simulator package.
+Xb-Build-Date: Sat, 10 Oct 2026 21:34:42 +0000
+
+Package: ros-jazzy-mrs-uav-hw-api
+Version: 2:2.0.0-0noble.20261010.210757~git.874fd0a.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 4228
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libtinyxml2-10 (>= 10.0.0), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-backward-ros, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-testing, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-mrs-uav-hw-api_2.0.0-0noble.20261010.210757~git.874fd0a.base.2f3b123b_amd64.deb
+Size: 600876
+MD5sum: 6ab403ecdf69b7fa7d76d0d094be7c67
+SHA1: 018094bbf2ba589cf911a9653fc83446aca2b4b1
+SHA256: a70b70770bde491ae15b6e3886739796cd4e93c388248d8a9cb6d4900a68cfcd
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_hw_api/tree/874fd0a086ca6231724d058389b78841bf86781d
+Description: The mrs_uav_hw_api package
+Xb-Build-Date: Sat, 10 Oct 2026 21:10:42 +0000
+
+Package: ros-jazzy-mrs-uav-managers
+Version: 2:2.0.0-0noble.20261010.211737~git.35aef20.base.2f3b123b
+Architecture: amd64
+Maintainer: "klaxalk" <tomas.baca@fel.cvut.cz>
+Installed-Size: 19331
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libtinyxml2-10 (>= 10.0.0), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-backward-ros, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-hw-api, ros-jazzy-mrs-uav-testing, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-geometry-msgs, ros-jazzy-tf2-ros, ros-jazzy-visualization-msgs
+Filename: ./ros-jazzy-mrs-uav-managers_2.0.0-0noble.20261010.211737~git.35aef20.base.2f3b123b_amd64.deb
+Size: 2791604
+MD5sum: 176f6850e969eb184d43d336c0cce45d
+SHA1: 0174b16c8a264f9e3466a283a329c62fa66128aa
+SHA256: bb37e7cdba637e9d6e115e3dbc4258a589b9b618c50f63eb8b5459c1b61f44d2
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_managers/tree/35aef207e95d072e1d54562fda5f448fd8c658db
+Description: MRS UAV Managers
+Xb-Build-Date: Sat, 10 Oct 2026 21:24:30 +0000
+
+Package: ros-jazzy-mrs-uav-modules
+Version: 2:2.0.0-0noble.20261010.210802~git.8d8775f.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 41
+Depends: ros-jazzy-mrs-modules-msgs, ros-jazzy-mrs-rviz-plugins, ros-jazzy-mrs-serial, ros-jazzy-mrs-utils
+Filename: ./ros-jazzy-mrs-uav-modules_2.0.0-0noble.20261010.210802~git.8d8775f.base.2f3b123b_amd64.deb
+Size: 5132
+MD5sum: 92c20eed9253ed2c5588f076b6d2692d
+SHA1: 543745fab6e095559bfd29d73e679a11f5dd464e
+SHA256: ebf77545e66efff0be12718d80b5c2dd69b9343eb55c8808431339fb84ab5b55
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_modules/tree/8d8775fa5632c15a6b9e81351b9086fb1c5d5d6b
+Description: The MRS UAV Modules metapackage
+Xb-Build-Date: Sat, 10 Oct 2026 21:08:07 +0000
+
+Package: ros-jazzy-mrs-uav-px4-api
+Version: 2:2.0.0-0noble.20261010.211801~git.22a5e2d.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 3507
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 4.3), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), mrs-geographiclib-datasets, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mavros, ros-jazzy-mavros-extras, ros-jazzy-mavros-msgs, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-hw-api, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-mrs-uav-px4-api_2.0.0-0noble.20261010.211801~git.22a5e2d.base.2f3b123b_amd64.deb
+Size: 492656
+MD5sum: a4d9adb061e3be4a7c26a15abc426e9b
+SHA1: 0a191500f31b62e6b807b5b95ee36555ea55587c
+SHA256: 8a23c9c56472e7d39333f857e5b47a8ae62ba5868d239016482208a9506b4cbc
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_px4_api/tree/22a5e2dc3d9268d31e789a5248e5aeb0648ddc64
+Description: PX4 API for MRS UAV System
+Xb-Build-Date: Sat, 10 Oct 2026 21:19:50 +0000
+
+Package: ros-jazzy-mrs-uav-state-estimators
+Version: 2:2.0.0-0noble.20261010.213404~git.d60354c.base.2f3b123b
+Architecture: amd64
+Maintainer: "klaxalk" <tomas.baca@fel.cvut.cz>
+Installed-Size: 11227
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-managers, ros-jazzy-mrs-uav-testing, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-geometry-msgs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-mrs-uav-state-estimators_2.0.0-0noble.20261010.213404~git.d60354c.base.2f3b123b_amd64.deb
+Size: 1369256
+MD5sum: 085c4395701ceaede80d1139fda351b6
+SHA1: 29a28250e5fd8c748009f91948a89baa17fdca1f
+SHA256: b02a393e08ffc205234e063a53624f0a2bb4d9a57d3d225b05297b45caf92a17
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_state_estimators/tree/d60354c241435a3231059432c6fd4cfe0e492ffb
+Description: MRS UAV State Estimators
+Xb-Build-Date: Sat, 10 Oct 2026 21:38:34 +0000
+
+Package: ros-jazzy-mrs-uav-status
+Version: 2:2.0.0-0noble.20261010.205645~git.14dbc32.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <klaxalk@gmail.com>
+Installed-Size: 5945
+Depends: libboost-filesystem1.83.0 (>= 1.83.0), libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libncurses6 (>= 6), libstdc++6 (>= 13.1), libtinfo6 (>= 6), libyaml-cpp0.8 (>= 0.7.0), libboost-dev, libncurses-dev, ros-jazzy-backward-ros, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-std-msgs, ros-jazzy-tf2-geometry-msgs
+Filename: ./ros-jazzy-mrs-uav-status_2.0.0-0noble.20261010.205645~git.14dbc32.base.2f3b123b_amd64.deb
+Size: 794150
+MD5sum: 7b07676ae12089c53e157805ba628504
+SHA1: efa7000aaaeea73632e429a6ecde2cb1f39c1a71
+SHA256: ce8dafb34aecfac7720b5c9adf7b283e6d6a3d46e30025739887849f49030492
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_status/tree/14dbc32990dcb0b49defc1dae4cbbb67b6eb005c
+Description: The mrs_uav_status package
+Xb-Build-Date: Sat, 10 Oct 2026 20:59:59 +0000
+
+Package: ros-jazzy-mrs-uav-system
+Version: 2:2.0.0-0noble.20261010.221352~git.3340bfe.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 41
+Depends: ros-jazzy-mrs-uav-core, ros-jazzy-mrs-uav-modules
+Filename: ./ros-jazzy-mrs-uav-system_2.0.0-0noble.20261010.221352~git.3340bfe.base.2f3b123b_amd64.deb
+Size: 5070
+MD5sum: 3d0fda2f62b7e80afdd9c0ffb7073cd0
+SHA1: 6b97c7252847427f224e71c0794196a89419037e
+SHA256: 332f80626890cea991512586f3b7388f9489006d514d0f429e4aeadc6260d942
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_system/tree/3340bfe3ff7cf5cc694d0dfd23c5f34d4605ec43
+Description: The MRS UAV System metapackage
+Xb-Build-Date: Sat, 10 Oct 2026 22:13:56 +0000
+
+Package: ros-jazzy-mrs-uav-system-full
+Version: 2:2.0.0-0noble.20261010.221337~git.3340bfe.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 43
+Depends: libomp-dev, ros-jazzy-depthai-ros, ros-jazzy-mrs-icm-imu-driver, ros-jazzy-mrs-octomap-mapping-planning, ros-jazzy-mrs-open-vins-core, ros-jazzy-mrs-point-lio-core, ros-jazzy-mrs-realsense, ros-jazzy-mrs-uav-core, ros-jazzy-mrs-uav-deployment, ros-jazzy-mrs-uav-dji-tello-api, ros-jazzy-mrs-uav-flightforge-simulator, ros-jazzy-mrs-uav-gazebo-simulator, ros-jazzy-mrs-uav-modules, ros-jazzy-mrs-uav-px4-api, ros-jazzy-odin-ros-driver, ros-jazzy-ouster-ros
+Filename: ./ros-jazzy-mrs-uav-system-full_2.0.0-0noble.20261010.221337~git.3340bfe.base.2f3b123b_amd64.deb
+Size: 5662
+MD5sum: 7d0c63ae2c358da203fadae85b53ae56
+SHA1: 8efa65808090d0624dbe401957091fc1e9dd6ce0
+SHA256: 3cbfd07ee52c28a46faab8595a308fb770fbc1328c147f9097924c05dcb115bb
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_system/tree/3340bfe3ff7cf5cc694d0dfd23c5f34d4605ec43
+Description: The MRS UAV System Full metapackage
+Xb-Build-Date: Sat, 10 Oct 2026 22:13:41 +0000
+
+Package: ros-jazzy-mrs-uav-testing
+Version: 2:2.0.0-0noble.20261010.205353~git.ad975b7.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 12859
+Depends: libyaml-cpp-dev, ros-jazzy-backward-ros, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-mrs-uav-testing_2.0.0-0noble.20261010.205353~git.ad975b7.base.2f3b123b_amd64.deb
+Size: 539420
+MD5sum: b758abfff826082e9ecdbf0dbe4531b6
+SHA1: b95846d7cf8e5ced3cf7a7cff246e89fc6ea4408
+SHA256: 4e7da3a2edfc8ee2e8439047ad2fdcb0c7ddd5d2070ac409b8f9682c079d7f57
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_testing/tree/ad975b738cd941629cac011bc9dc2d8b6daf394d
+Description: mrs_uav_testing
+Xb-Build-Date: Sat, 10 Oct 2026 20:55:12 +0000
+
+Package: ros-jazzy-mrs-uav-trackers
+Version: 2:2.0.0-0noble.20261010.213422~git.7eab034.base.2f3b123b
+Architecture: amd64
+Maintainer: "klaxalk" <tomas.baca@fel.cvut.cz>
+Installed-Size: 2428
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-mpc-solvers, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-managers, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-sensor-msgs
+Filename: ./ros-jazzy-mrs-uav-trackers_2.0.0-0noble.20261010.213422~git.7eab034.base.2f3b123b_amd64.deb
+Size: 571572
+MD5sum: ca66d5d7a58ed0fe2c02f90c99068917
+SHA1: ae7a3a88ea97edf7543115efc6f06384ceb0c7de
+SHA256: 31340703e9087f3492420b75d330a03ddca1efc7fb9a3fe7160457f08e168918
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_trackers/tree/7eab034972d9c2016c23c09f0432ccdc7dbeca27
+Description: MRS UAV Trackers
+Xb-Build-Date: Sat, 10 Oct 2026 21:35:49 +0000
+
+Package: ros-jazzy-mrs-uav-trajectory-generation
+Version: 2:2.0.0-0noble.20261010.210744~git.92d13d3.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 3368
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-nlopt (>= 2.4.2), ros-jazzy-backward-ros, ros-jazzy-builtin-interfaces, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-mrs-uav-testing, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-std-msgs, ros-jazzy-std-srvs
+Filename: ./ros-jazzy-mrs-uav-trajectory-generation_2.0.0-0noble.20261010.210744~git.92d13d3.base.2f3b123b_amd64.deb
+Size: 647200
+MD5sum: ba25259eb17913fef70113ac1ed7af04
+SHA1: 90f2f43879cfd9347db630a5f4400e215cc0048b
+SHA256: 9c2a475b825e35a089fe057f29fde746e37a69e0c866183069d1857918a939d5
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_trajectory_generation/tree/92d13d3b3296c260a515869cbf57c7a0c7f6a8cc
+Description: MRS UAV Trajectory Generation
+Xb-Build-Date: Sat, 10 Oct 2026 21:09:00 +0000
+
+Package: ros-jazzy-mrs-uav-trajectory-loader
+Version: 2:0.0.1-0noble.20261010.205351~git.afe49b1.base.2f3b123b
+Architecture: amd64
+Maintainer: "Afzal Ahmad" <afzal.ahmad@fel.cvut.cz>
+Installed-Size: 324
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-mrs-lib, ros-jazzy-mrs-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-std-srvs
+Filename: ./ros-jazzy-mrs-uav-trajectory-loader_0.0.1-0noble.20261010.205351~git.afe49b1.base.2f3b123b_amd64.deb
+Size: 94466
+MD5sum: 447c63c14a71771177e034c753b3e8bf
+SHA1: d83d22517621856e51eb85a899ed1420f4764492
+SHA256: f247ef71013d440b225b9045efa67f4d0eef7421a62241f11e6f99345942e1a2
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_uav_trajectory_loader/tree/afe49b140a6d4366e5474e7e1f11efc22e2c5160
+Description: Minimal ROS2 trajectory loader as a component.
+Xb-Build-Date: Sat, 10 Oct 2026 20:54:05 +0000
+
+Package: ros-jazzy-mrs-utils
+Version: 2:2.0.0-0noble.20261010.205720~git.1fd98da.base.2f3b123b
+Architecture: amd64
+Maintainer: "Tomas Baca" <tomas.baca@fel.cvut.cz>
+Installed-Size: 41
+Depends: ros-jazzy-builtin-interfaces, ros-jazzy-mrs-odometry-republisher, ros-jazzy-mrs-tf-connector, ros-jazzy-mrs-tf-mirror, ros-jazzy-mrs-tf-reconfigure
+Filename: ./ros-jazzy-mrs-utils_2.0.0-0noble.20261010.205720~git.1fd98da.base.2f3b123b_amd64.deb
+Size: 5146
+MD5sum: 4e948ae402d592e5dffccfb2c27b44dd
+SHA1: 2e2333c65ece7fccc04a39603b9687805106e5ad
+SHA256: 02559a35d25557d39857a2c13ea3d0bad6a4830d6e182be1f912281332afa5d1
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_utils/tree/1fd98da24bb85150c91ea33a21d0421316f2d6b5
+Description: MRS Utils
+Xb-Build-Date: Sat, 10 Oct 2026 20:57:25 +0000
+
+Package: ros-jazzy-mrs-vins-imu-filter
+Version: 2:2.0.0-0noble.20261010.205717~git.0692f40.base.2f3b123b
+Architecture: amd64
+Maintainer: "Vaclav Pritzl" <pritzvac@fel.cvut.cz>
+Installed-Size: 713
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-geometry-msgs, ros-jazzy-mrs-lib, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-std-msgs, ros-jazzy-tf2, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-mrs-vins-imu-filter_2.0.0-0noble.20261010.205717~git.0692f40.base.2f3b123b_amd64.deb
+Size: 173104
+MD5sum: 59bc80f0961b15859d360ef5d4f849ff
+SHA1: 436b91f9b03e24713e933f2d6234ea3f1b073d20
+SHA256: bd1d593830245bb538e7651d9f674489164f4de45be03c695e811c45e9350548
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_vins_imu_filter/tree/0692f40b73186b1f88712c7636731e7d6071b4bf
+Description: The mrs_vins_imu_filter package
+Xb-Build-Date: Sat, 10 Oct 2026 20:57:50 +0000
+
+Package: ros-jazzy-mrs-vins-republisher
+Version: 2:0.0.0-0noble.20261010.205355~git.e7b0de0.base.2f3b123b
+Architecture: amd64
+Maintainer: "Jan Bednar" <bednaj14@fel.cvut.cz>
+Installed-Size: 793
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), liborocos-kdl1.5 (>= 1.5.1), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-geometry-msgs, ros-jazzy-mrs-lib, ros-jazzy-nav-msgs, ros-jazzy-pluginlib, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-tf2, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-mrs-vins-republisher_0.0.0-0noble.20261010.205355~git.e7b0de0.base.2f3b123b_amd64.deb
+Size: 184604
+MD5sum: a2889fe428712f6c64ac5058a9f0f78c
+SHA1: 6b05c667cdf5b451623799fe17870c9bba248898
+SHA256: 6abeda02ed46abcb4f6c2694013bffafdafaf7875a29156d3b07c0de3c517ac6
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/mrs_vins_republisher/tree/e7b0de0f0969f23cdae01dfb575b55ef3613d9b2
+Description: The mrs_vins_republisher package
+Xb-Build-Date: Sat, 10 Oct 2026 20:54:37 +0000
+
+Package: ros-jazzy-nlopt
+Version: 2:2.4.2-0noble.20261010.190807~git.c145d18.base.bff57216
+Architecture: arm64
+Maintainer: "Steven G. Johnson" <stevenj@alum.mit.edu>
+Installed-Size: 1684
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), ros-jazzy-rclcpp
+Filename: ./ros-jazzy-nlopt_2.4.2-0noble.20261010.190807~git.c145d18.base.bff57216_arm64.deb
+Size: 225692
+MD5sum: fc517449379c96b0fe1907c72ad478cd
+SHA1: e242a4afcbcf96d4eb9d2b00463c6df5643ebdf2
+SHA256: 03052ef876dc4c6c74ef22620a7ca75435703338c42522514aeaaed2a6552e42
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/nlopt_ros/tree/c145d182abf28498c4aa06dff8251653d923a7c7
+Description: nlopt ros wrapper
+Xb-Build-Date: Sat, 10 Oct 2026 19:08:22 +0000
+
+Package: ros-jazzy-nlopt
+Version: 2:2.4.2-0noble.20261010.191603~git.c145d18.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Steven G. Johnson" <stevenj@alum.mit.edu>
+Installed-Size: 1724
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), ros-jazzy-rclcpp
+Filename: ./ros-jazzy-nlopt_2.4.2-0noble.20261010.191603~git.c145d18.base.b7fb6f40_amd64.deb
+Size: 231450
+MD5sum: 9947a6e1d0ca525199c136a6f6723ba3
+SHA1: 8cd681590f258095a37feffb4cb31927cfc09dfe
+SHA256: 8cc4cfd270eca84d218f18ec8e7d17f908183ac13761216c912eab0711f3b1ca
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/nlopt_ros/tree/c145d182abf28498c4aa06dff8251653d923a7c7
+Description: nlopt ros wrapper
+Xb-Build-Date: Sat, 10 Oct 2026 19:16:26 +0000
+
+Package: ros-jazzy-octomap-msgs
+Version: 2:2.0.1-0noble.20261010.190831~git.50eece2.base.bff57216
+Architecture: arm64
+Maintainer: "Wolfgang Merkt" <opensource@wolfgangmerkt.com>
+Installed-Size: 1801
+Depends: libc6 (>= 2.17), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 5.2), ros-jazzy-fastcdr, ros-jazzy-geometry-msgs, ros-jazzy-rosidl-default-runtime, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-octomap-msgs_2.0.1-0noble.20261010.190831~git.50eece2.base.bff57216_arm64.deb
+Size: 123880
+MD5sum: c133f5af2d87c74fda014db10bb24aaf
+SHA1: 1cf9129c42ce506dc2f6e07cd2d6ce0c5ec63c67
+SHA256: eab48ba95fbeb62fdbadc207d01ce4d3418bde3e8a6c62457d526053c6d9384f
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/octomap_ros/tree/fb217f107b59ef8948c8d2f2bc018fe22348a989
+Description: This package provides messages and serializations / conversion for the OctoMap library.
+ This ROS2 version is based on version 0.3.3 of the ROS1 package.
+Xb-Build-Date: Sat, 10 Oct 2026 19:09:04 +0000
+
+Package: ros-jazzy-octomap-msgs
+Version: 2:2.0.1-0noble.20261010.191440~git.50eece2.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Wolfgang Merkt" <opensource@wolfgangmerkt.com>
+Installed-Size: 1442
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 5.2), ros-jazzy-fastcdr, ros-jazzy-geometry-msgs, ros-jazzy-rosidl-default-runtime, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-octomap-msgs_2.0.1-0noble.20261010.191440~git.50eece2.base.b7fb6f40_amd64.deb
+Size: 125316
+MD5sum: 1c92fd6bc371c44a4205305d40589639
+SHA1: 0b92c12d2075a8b665ce77896a7a1dcf8f75cc76
+SHA256: e68278fba1362f63e607a06b60a53564eb56c53bb7371702cf2fa3e59fcc148a
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/octomap_ros/tree/fb217f107b59ef8948c8d2f2bc018fe22348a989
+Description: This package provides messages and serializations / conversion for the OctoMap library.
+ This ROS2 version is based on version 0.3.3 of the ROS1 package.
+Xb-Build-Date: Sat, 10 Oct 2026 19:14:54 +0000
+
+Package: ros-jazzy-octomap-ros
+Version: 2:0.4.4-0noble.20261010.191040~git.638592f.base.bff57216
+Architecture: arm64
+Maintainer: "Wolfgang Merkt" <opensource@wolfgangmerkt.com>
+Installed-Size: 129
+Depends: libc6 (>= 2.17), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), liboctomap-dev, ros-jazzy-octomap-msgs, ros-jazzy-sensor-msgs, ros-jazzy-tf2
+Filename: ./ros-jazzy-octomap-ros_0.4.4-0noble.20261010.191040~git.638592f.base.bff57216_arm64.deb
+Size: 15034
+MD5sum: 2abf5e8757d212c79678cb273b57eb66
+SHA1: f9f6cb4fc99d385d92f15549f4845f7a8d45e4f4
+SHA256: 1973a3d7ec7623e7b8a4fbfde4a15c53964600a184adda825ba69dec77d30090
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/octomap_ros/tree/fb217f107b59ef8948c8d2f2bc018fe22348a989
+Description: octomap_ros provides conversion functions between ROS and OctoMap's native types.
+ This enables a convenvient use of the octomap package in ROS.
+Xb-Build-Date: Sat, 10 Oct 2026 19:10:46 +0000
+
+Package: ros-jazzy-octomap-ros
+Version: 2:0.4.4-0noble.20261010.191536~git.638592f.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Wolfgang Merkt" <opensource@wolfgangmerkt.com>
+Installed-Size: 81
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), liboctomap-dev, ros-jazzy-octomap-msgs, ros-jazzy-sensor-msgs, ros-jazzy-tf2
+Filename: ./ros-jazzy-octomap-ros_0.4.4-0noble.20261010.191536~git.638592f.base.b7fb6f40_amd64.deb
+Size: 15146
+MD5sum: 1eb6774150fb6fe6fc80339d1da18109
+SHA1: b25dc52cfea18fa9ad9de44e04f49afdf91034fb
+SHA256: bc4bf4e4e9034479d742b9e0e18392b7489d934e353ac3d0485d735c03554935
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/octomap_ros/tree/fb217f107b59ef8948c8d2f2bc018fe22348a989
+Description: octomap_ros provides conversion functions between ROS and OctoMap's native types.
+ This enables a convenvient use of the octomap package in ROS.
+Xb-Build-Date: Sat, 10 Oct 2026 19:15:40 +0000
+
+Package: ros-jazzy-octomap-rviz-plugins
+Version: 2:2.1.1-0noble.20261010.190907~git.62ea089.base.bff57216
+Architecture: arm64
+Maintainer: "Armin Hornung" <armin@hornung.io>
+Installed-Size: 1236
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), liboctomap1.9t64 (>= 1.9.7+dfsg), libqt5core5t64 (>= 5.5.0), libstdc++6 (>= 13.1), ros-jazzy-rviz-ogre-vendor, liboctomap-dev, libqt5gui5t64, libqt5widgets5t64, qtbase5-dev, ros-jazzy-octomap-msgs, ros-jazzy-rclcpp, ros-jazzy-rviz-common, ros-jazzy-rviz-default-plugins, ros-jazzy-rviz-rendering
+Filename: ./ros-jazzy-octomap-rviz-plugins_2.1.1-0noble.20261010.190907~git.62ea089.base.bff57216_arm64.deb
+Size: 270416
+MD5sum: d23ef27be7fedf3b3db37fcd11b56ba6
+SHA1: 322d43141f64cd411380550baa3fd4a1b71daa2a
+SHA256: bc88dabb3a08e15fa26b147fceaeabe94c31ef9e26edf07da598b8d7535a9751
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/octomap_ros/tree/fb217f107b59ef8948c8d2f2bc018fe22348a989
+Description: A set of plugins for displaying occupancy information decoded from binary octomap messages.
+Xb-Build-Date: Sat, 10 Oct 2026 19:10:37 +0000
+
+Package: ros-jazzy-octomap-rviz-plugins
+Version: 2:2.1.1-0noble.20261010.191457~git.62ea089.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Armin Hornung" <armin@hornung.io>
+Installed-Size: 1191
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), liboctomap1.9t64 (>= 1.9.7+dfsg), libqt5core5t64 (>= 5.15.1), libstdc++6 (>= 13.1), ros-jazzy-rviz-ogre-vendor, liboctomap-dev, libqt5gui5t64, libqt5widgets5t64, qtbase5-dev, ros-jazzy-octomap-msgs, ros-jazzy-rclcpp, ros-jazzy-rviz-common, ros-jazzy-rviz-default-plugins, ros-jazzy-rviz-rendering
+Filename: ./ros-jazzy-octomap-rviz-plugins_2.1.1-0noble.20261010.191457~git.62ea089.base.b7fb6f40_amd64.deb
+Size: 280318
+MD5sum: 57cc99074094752b52303c450a688aef
+SHA1: 7fbc755b64f25c2bb10e4b1a271a2cea9b1b197f
+SHA256: 5dfecbc8bdaecd610e10017b18b28fdad9bfbdf3fd4dd94937529b089d51937c
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/octomap_ros/tree/fb217f107b59ef8948c8d2f2bc018fe22348a989
+Description: A set of plugins for displaying occupancy information decoded from binary octomap messages.
+Xb-Build-Date: Sat, 10 Oct 2026 19:15:33 +0000
+
+Package: ros-jazzy-odin-ros-driver
+Version: 2:0.0.1-0noble.20260706.174804~git.73a66d4.base.19b296da
+Architecture: arm64
+Maintainer: "rlk" <oliveiratang@manifoldtech.cn>
+Installed-Size: 6979
+Depends: libatomic1 (>= 4.8), libboost-atomic1.83.0 (>= 1.83.0), libboost-filesystem1.83.0 (>= 1.83.0), libboost-iostreams1.83.0 (>= 1.83.0), libboost-serialization1.83.0 (>= 1.83.0), libboost-system1.83.0 (>= 1.83.0), libc6 (>= 2.38), libflann1.9 (>= 1.9.2+dfsg), libfreetype6 (>= 2.2.1), libgcc-s1 (>= 3.3.1), libglew2.2 (>= 2.2.0-4build1), libgomp1 (>= 4.2.1), libjsoncpp25 (>= 1.9.5), liblttng-ust-common1t64 (>= 2.13.0), liblttng-ust1t64 (>= 2.13.0), liblz4-1 (>= 0.0~r113), libopencv-calib3d406t64 (>= 4.6.0+dfsg), libopencv-contrib406t64 (>= 4.6.0+dfsg), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-dnn406t64 (>= 4.6.0+dfsg), libopencv-features2d406t64 (>= 4.6.0+dfsg), libopencv-flann406t64 (>= 4.6.0+dfsg), libopencv-highgui406t64 (>= 4.6.0+dfsg), libopencv-imgcodecs406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libopencv-ml406t64 (>= 4.6.0+dfsg), libopencv-objdetect406t64 (>= 4.6.0+dfsg), libopencv-photo406t64 (>= 4.6.0+dfsg), libopencv-shape406t64 (>= 4.6.0+dfsg), libopencv-stitching406t64 (>= 4.6.0+dfsg), libopencv-superres406t64 (>= 4.6.0+dfsg), libopencv-video406t64 (>= 4.6.0+dfsg), libopencv-videoio406t64 (>= 4.6.0+dfsg), libopencv-videostab406t64 (>= 4.6.0+dfsg), libopencv-viz406t64 (>= 4.6.0+dfsg), libopenni0t64 (>= 1.5.4.0+dfsg), libopenni2-0 (>= 2.2.0.33+dfsg), liborocos-kdl1.5 (>= 1.5.1), libpcl-apps1.14 (>= 1.14.0+dfsg), libpcl-common1.14 (>= 1.14.0+dfsg), libpcl-features1.14 (>= 1.14.0+dfsg), libpcl-filters1.14 (>= 1.14.0+dfsg), libpcl-io1.14 (>= 1.14.0+dfsg), libpcl-kdtree1.14 (>= 1.14.0+dfsg), libpcl-keypoints1.14 (>= 1.14.0+dfsg), libpcl-ml1.14 (>= 1.14.0+dfsg), libpcl-octree1.14 (>= 1.14.0+dfsg), libpcl-outofcore1.14 (>= 1.14.0+dfsg), libpcl-people1.14 (>= 1.14.0+dfsg), libpcl-recognition1.14 (>= 1.14.0+dfsg), libpcl-registration1.14 (>= 1.14.0+dfsg), libpcl-sample-consensus1.14 (>= 1.14.0+dfsg), libpcl-search1.14 (>= 1.14.0+dfsg), libpcl-segmentation1.14 (>= 1.14.0+dfsg), libpcl-stereo1.14 (>= 1.14.0+dfsg), libpcl-surface1.14 (>= 1.14.0+dfsg), libpcl-tracking1.14 (>= 1.14.0+dfsg), libpcl-visualization1.14 (>= 1.14.0+dfsg), libpng16-16t64 (>= 1.6.2), libpython3.12t64 (>= 3.12.1), libqhull-r8.0 (>= 2020.1), libqt5core5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5opengl5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.0.2), libssl3t64 (>= 3.0.0), libstdc++6 (>= 13.1), libtbb12 (>= 2021.11.0), libusb-1.0-0 (>= 2:1.0.21), libvtk9.1t64 (>= 9.1.0+really9.1.0+dfsg2), libvtk9.1t64-qt (>= 9.1.0+really9.1.0+dfsg2), libx11-6, libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-fastcdr, zlib1g (>= 1:1.1.4), ros-jazzy-ament-index-cpp, ros-jazzy-cv-bridge, ros-jazzy-geometry-msgs, ros-jazzy-image-transport, ros-jazzy-message-filters, ros-jazzy-nav-msgs, ros-jazzy-pcl-conversions, ros-jazzy-rclcpp, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-tf2, ros-jazzy-tf2-geometry-msgs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-odin-ros-driver_0.0.1-0noble.20260706.174804~git.73a66d4.base.19b296da_arm64.deb
+Size: 964472
+MD5sum: 4934e94cf6cb5fc517cc08d63e8391b1
+SHA1: daedbe4a0095de59b2368929929dc363b3faf698
+SHA256: 64fa228b89c22c5e82492c20cf9c919241e0240dda414451381065c9d1846fd7
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/odin_ros_driver/tree/73a66d4da9e40cc951deadb89d94fa487a7199b1
+Description: ROS2 driver for Odin sensor
+Xb-Build-Date: Mon, 06 Jul 2026 17:53:04 +0000
+
+Package: ros-jazzy-odin-ros-driver
+Version: 2:0.0.1-0noble.20261010.205402~git.f053eac.base.2f3b123b
+Architecture: amd64
+Maintainer: "rlk" <oliveiratang@manifoldtech.cn>
+Installed-Size: 6370
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-imgcodecs406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libopencv-stitching406t64 (>= 4.6.0+dfsg), libpcl-common1.14 (>= 1.14.0+dfsg), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 13.1), libusb-1.0-0 (>= 2:1.0.21), libyaml-cpp0.8 (>= 0.7.0), ros-jazzy-fastcdr, ros-jazzy-ament-index-cpp, ros-jazzy-cv-bridge, ros-jazzy-geometry-msgs, ros-jazzy-image-transport, ros-jazzy-message-filters, ros-jazzy-mrs-lib, ros-jazzy-nav-msgs, ros-jazzy-pcl-conversions, ros-jazzy-rclcpp, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-tf2, ros-jazzy-tf2-geometry-msgs, ros-jazzy-tf2-ros, usbutils
+Filename: ./ros-jazzy-odin-ros-driver_0.0.1-0noble.20261010.205402~git.f053eac.base.2f3b123b_amd64.deb
+Size: 1028514
+MD5sum: 5477279f65cdfbd637355c5fa5b228f7
+SHA1: 834dd7fab10b15bf38441b8681ed7c920bd4f03d
+SHA256: ced3256903747905cfe58597e027b80f98dca3b73858ec57679f42c8cf15775f
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/odin_ros_driver/tree/f053eac0e45499a7c78452cf518c47f2a8fe539b
+Description: ROS2 driver for Odin sensor
+Xb-Build-Date: Sat, 10 Oct 2026 20:57:11 +0000
+
+Package: ros-jazzy-ouster-ros
+Version: 2:0.13.11-0noble.20261010.190925~git.82b2aed.base.bff57216
+Architecture: arm64
+Maintainer: "ouster developers" <oss@ouster.io>
+Installed-Size: 8658
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libcurl4t64 (>= 7.16.2), libfmt9 (>= 9.1.0+ds1), libgcc-s1 (>= 4.5), libjsoncpp25 (>= 1.9.5), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-imgcodecs406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libopencv-stitching406t64 (>= 4.6.0+dfsg), libspdlog1.12-fmt9, libstdc++6 (>= 13.1), curl, libcurl4-openssl-dev, libspdlog-dev, libtins-dev, net-tools, nmap, ros-jazzy-cv-bridge, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-ouster-sensor-msgs, ros-jazzy-pcl-conversions, ros-jazzy-pcl-ros, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-ouster-ros_0.13.11-0noble.20261010.190925~git.82b2aed.base.bff57216_arm64.deb
+Size: 1356048
+MD5sum: c00c7ea6a9d430894b840e9a8e24e497
+SHA1: 7403b30101fccbf67e2826aec34fec4dd3a4adfc
+SHA256: bf6d703b000169cf05967b92e80c5bb927053031b4b391a2461b27b2c0f4956a
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/ouster-ros/tree/82b2aed427dfd7919d599c7d39109c7a386576d6
+Description: Ouster ROS2 driver
+Xb-Build-Date: Sat, 10 Oct 2026 19:16:12 +0000
+
+Package: ros-jazzy-ouster-ros
+Version: 2:0.13.11-0noble.20261010.191413~git.82b2aed.base.b7fb6f40
+Architecture: amd64
+Maintainer: "ouster developers" <oss@ouster.io>
+Installed-Size: 8663
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libcurl4t64 (>= 7.16.2), libfmt9 (>= 9.1.0+ds1), libgcc-s1 (>= 3.3.1), libjsoncpp25 (>= 1.9.5), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-imgcodecs406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libopencv-stitching406t64 (>= 4.6.0+dfsg), libspdlog1.12-fmt9, libstdc++6 (>= 13.1), curl, libcurl4-openssl-dev, libspdlog-dev, libtins-dev, net-tools, nmap, ros-jazzy-cv-bridge, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-ouster-sensor-msgs, ros-jazzy-pcl-conversions, ros-jazzy-pcl-ros, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rclcpp-lifecycle, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-ouster-ros_0.13.11-0noble.20261010.191413~git.82b2aed.base.b7fb6f40_amd64.deb
+Size: 1452434
+MD5sum: fe9d90f8e2a71b517776c273745cc896
+SHA1: ee216c09f147ba04b083b627b985b486f9205c3f
+SHA256: ddee646f531f2e92775ce939d67f358d4d94627a217ed1b1bbe818383f49ca37
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/ouster-ros/tree/82b2aed427dfd7919d599c7d39109c7a386576d6
+Description: Ouster ROS2 driver
+Xb-Build-Date: Sat, 10 Oct 2026 19:17:15 +0000
+
+Package: ros-jazzy-ouster-sensor-msgs
+Version: 2:0.12.2-0noble.20261010.190838~git.82b2aed.base.bff57216
+Architecture: arm64
+Maintainer: "ouster developers" <oss@ouster.io>
+Installed-Size: 2122
+Depends: libc6 (>= 2.17), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 5.2), ros-jazzy-fastcdr, ros-jazzy-rosidl-default-runtime, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-ouster-sensor-msgs_0.12.2-0noble.20261010.190838~git.82b2aed.base.bff57216_arm64.deb
+Size: 133070
+MD5sum: 2584d1be4241533ff4fe18b3323c9680
+SHA1: ffcbe55ba7529ec5d20f428f59af051ee28bfeb5
+SHA256: a12d03d1fbb1fdf5c9fcefe820d7a59067c336d9c70757c1a120aa4d423b6322
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/ouster-ros/tree/82b2aed427dfd7919d599c7d39109c7a386576d6
+Description: ouster_ros message and service definitions
+Xb-Build-Date: Sat, 10 Oct 2026 19:09:16 +0000
+
+Package: ros-jazzy-ouster-sensor-msgs
+Version: 2:0.12.2-0noble.20261010.191346~git.82b2aed.base.b7fb6f40
+Architecture: amd64
+Maintainer: "ouster developers" <oss@ouster.io>
+Installed-Size: 1796
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 5.2), ros-jazzy-fastcdr, ros-jazzy-rosidl-default-runtime, ros-jazzy-std-msgs
+Filename: ./ros-jazzy-ouster-sensor-msgs_0.12.2-0noble.20261010.191346~git.82b2aed.base.b7fb6f40_amd64.deb
+Size: 133438
+MD5sum: 9d691fedaee74b4b5eb9589b5169a557
+SHA1: dc711685a744a145d9366f5047ac5d3947a79650
+SHA256: 50542b89530574c03f95d7c442159d8b3fabc2ff058efc3924f30b9064ceb318
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/ouster-ros/tree/82b2aed427dfd7919d599c7d39109c7a386576d6
+Description: ouster_ros message and service definitions
+Xb-Build-Date: Sat, 10 Oct 2026 19:14:06 +0000
+
+Package: ros-jazzy-ov-core
+Version: 2:2.7.0-0noble.20261010.190824~git.1ea53fc.base.bff57216
+Architecture: arm64
+Maintainer: "Patrick Geneva" <pgeneva@udel.edu>
+Installed-Size: 1391
+Depends: libboost-filesystem1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libopencv-calib3d406t64 (>= 4.6.0+dfsg), libopencv-contrib406t64 (>= 4.6.0+dfsg), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-features2d406t64 (>= 4.6.0+dfsg), libopencv-highgui406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libopencv-stitching406t64 (>= 4.6.0+dfsg), libopencv-video406t64 (>= 4.6.0+dfsg), libopencv-videoio406t64 (>= 4.6.0+dfsg), libstdc++6 (>= 13.1), libboost-all-dev, libeigen3-dev, libopencv-contrib-dev, libopencv-dev, ros-jazzy-cv-bridge, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-ov-core_2.7.0-0noble.20261010.190824~git.1ea53fc.base.bff57216_arm64.deb
+Size: 489058
+MD5sum: bbc9d9f7896ae8b44cdb1e276b0654dc
+SHA1: df16c071f1beaec1839a88e37ec2abc4072f1864
+SHA256: 1cfb22cbd98cded83acc23549e18688aed587417ec12a0748b33423d1dd5e388
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/open_vins/tree/1ea53fcf077011ac8ddd12e426bc1523958ab31f
+Description: Core algorithms for visual-inertial navigation algorithms.
+Xb-Build-Date: Sat, 10 Oct 2026 19:11:29 +0000
+
+Package: ros-jazzy-ov-core
+Version: 2:2.7.0-0noble.20261010.191149~git.1ea53fc.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Patrick Geneva" <pgeneva@udel.edu>
+Installed-Size: 1575
+Depends: libboost-filesystem1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libopencv-calib3d406t64 (>= 4.6.0+dfsg), libopencv-contrib406t64 (>= 4.6.0+dfsg), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-features2d406t64 (>= 4.6.0+dfsg), libopencv-highgui406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libopencv-stitching406t64 (>= 4.6.0+dfsg), libopencv-video406t64 (>= 4.6.0+dfsg), libopencv-videoio406t64 (>= 4.6.0+dfsg), libstdc++6 (>= 13.1), libboost-all-dev, libeigen3-dev, libopencv-contrib-dev, libopencv-dev, ros-jazzy-cv-bridge, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-ov-core_2.7.0-0noble.20261010.191149~git.1ea53fc.base.b7fb6f40_amd64.deb
+Size: 508058
+MD5sum: 8c25f41f005bc33ae8436d344477a591
+SHA1: cb1c0208883b3284bdafea38f9ba4af67ae87a6d
+SHA256: 4ba2c035cdd7b96f4fc718d46dc3c74d35fd310e5cf09707456703de90be7c4b
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/open_vins/tree/1ea53fcf077011ac8ddd12e426bc1523958ab31f
+Description: Core algorithms for visual-inertial navigation algorithms.
+Xb-Build-Date: Sat, 10 Oct 2026 19:14:08 +0000
+
+Package: ros-jazzy-ov-data
+Version: 2:2.7.0-0noble.20261010.191132~git.1ea53fc.base.bff57216
+Architecture: arm64
+Maintainer: "Patrick Geneva" <pgeneva@udel.edu>
+Installed-Size: 41
+Filename: ./ros-jazzy-ov-data_2.7.0-0noble.20261010.191132~git.1ea53fc.base.bff57216_arm64.deb
+Size: 5172
+MD5sum: 283f04b794cccc723aa9aeed3485c5a3
+SHA1: e37366cbbba1c96d907217811646f77ebde972c5
+SHA256: 6672d76dc684271288738238444b6b823aa536ff92bdf0601483bab5c7100f19
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/open_vins/tree/1ea53fcf077011ac8ddd12e426bc1523958ab31f
+Description: Data for the OpenVINS project, mostly just groundtruth files...
+Xb-Build-Date: Sat, 10 Oct 2026 19:11:35 +0000
+
+Package: ros-jazzy-ov-data
+Version: 2:2.7.0-0noble.20261010.191411~git.1ea53fc.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Patrick Geneva" <pgeneva@udel.edu>
+Installed-Size: 41
+Filename: ./ros-jazzy-ov-data_2.7.0-0noble.20261010.191411~git.1ea53fc.base.b7fb6f40_amd64.deb
+Size: 5180
+MD5sum: 281c3b26ce2492fbd1bf1fe8b1830cff
+SHA1: 84e047c52e33f010d9a1bcde73b5b8e510a53808
+SHA256: 8d5d83024387d09e9d2c4981b60a11167e48cf07b9ea7ffff836f6c9f3c02e65
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/open_vins/tree/1ea53fcf077011ac8ddd12e426bc1523958ab31f
+Description: Data for the OpenVINS project, mostly just groundtruth files...
+Xb-Build-Date: Sat, 10 Oct 2026 19:14:16 +0000
+
+Package: ros-jazzy-ov-eval
+Version: 2:2.7.0-0noble.20261010.191138~git.1ea53fc.base.bff57216
+Architecture: arm64
+Maintainer: "Patrick Geneva" <pgeneva@udel.edu>
+Installed-Size: 1239
+Depends: libboost-filesystem1.83.0 (>= 1.83.0), libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 13.1), libboost-all-dev, libeigen3-dev, ros-jazzy-ov-core, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-ov-eval_2.7.0-0noble.20261010.191138~git.1ea53fc.base.bff57216_arm64.deb
+Size: 280932
+MD5sum: cba17d392522d22f2a9ad13fc759ddb9
+SHA1: 8a8301756e4e211e32701e047d3f8653c0cf99ca
+SHA256: a4b3e0259772864da9437373c28af6c05f56ce6831cb906d5f4c555222aa95c9
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/open_vins/tree/1ea53fcf077011ac8ddd12e426bc1523958ab31f
+Description: Evaluation methods and scripts for visual-inertial odometry systems.
+Xb-Build-Date: Sat, 10 Oct 2026 19:13:38 +0000
+
+Package: ros-jazzy-ov-eval
+Version: 2:2.7.0-0noble.20261010.191419~git.1ea53fc.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Patrick Geneva" <pgeneva@udel.edu>
+Installed-Size: 1063
+Depends: libboost-filesystem1.83.0 (>= 1.83.0), libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 13.1), libboost-all-dev, libeigen3-dev, ros-jazzy-ov-core, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-ov-eval_2.7.0-0noble.20261010.191419~git.1ea53fc.base.b7fb6f40_amd64.deb
+Size: 290122
+MD5sum: 2f4144d2228f675b3ea6092c24691d3f
+SHA1: d6b6d46dfbdfbdf3918700bfd39f6f8cf50f704c
+SHA256: 9c4f6f25a9d7ac6feac76dc34dce50d2ce4e43919a01840c6946c65e69f6e0af
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/open_vins/tree/1ea53fcf077011ac8ddd12e426bc1523958ab31f
+Description: Evaluation methods and scripts for visual-inertial odometry systems.
+Xb-Build-Date: Sat, 10 Oct 2026 19:15:26 +0000
+
+Package: ros-jazzy-ov-init
+Version: 2:2.7.0-0noble.20261010.191349~git.1ea53fc.base.bff57216
+Architecture: arm64
+Maintainer: "Patrick Geneva" <pgeneva@udel.edu>
+Installed-Size: 1446
+Depends: libboost-filesystem1.83.0 (>= 1.83.0), libc6 (>= 2.34), libceres4t64 (>= 2.2.0+dfsg), libgcc-s1 (>= 3.3.1), libgoogle-glog0v6t64 (>= 0.6.0), libopencv-calib3d406t64 (>= 4.6.0+dfsg), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-stitching406t64 (>= 4.6.0+dfsg), libstdc++6 (>= 13.1), libboost-all-dev, libceres-dev, libeigen3-dev, libopencv-contrib-dev, libopencv-dev, ros-jazzy-cv-bridge, ros-jazzy-ov-core, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-ov-init_2.7.0-0noble.20261010.191349~git.1ea53fc.base.bff57216_arm64.deb
+Size: 512424
+MD5sum: 46f661be636d5e788fdc3f1e9db6c159
+SHA1: 0763471bceaa874d1ed0fffd145c77a58d920c26
+SHA256: 1a85f825fbae048edcac8ec9c0f3d44b58505695f8f8c87d933badcf4096bd00
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/open_vins/tree/1ea53fcf077011ac8ddd12e426bc1523958ab31f
+Description: Initialization package which handles static and dynamic initialization.
+Xb-Build-Date: Sat, 10 Oct 2026 19:18:04 +0000
+
+Package: ros-jazzy-ov-init
+Version: 2:2.7.0-0noble.20261010.191536~git.1ea53fc.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Patrick Geneva" <pgeneva@udel.edu>
+Installed-Size: 1714
+Depends: libboost-filesystem1.83.0 (>= 1.83.0), libc6 (>= 2.34), libceres4t64 (>= 2.2.0+dfsg), libgcc-s1 (>= 4.0), libgoogle-glog0v6t64 (>= 0.6.0), libopencv-calib3d406t64 (>= 4.6.0+dfsg), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-stitching406t64 (>= 4.6.0+dfsg), libstdc++6 (>= 13.1), libboost-all-dev, libceres-dev, libeigen3-dev, libopencv-contrib-dev, libopencv-dev, ros-jazzy-cv-bridge, ros-jazzy-ov-core, ros-jazzy-rclcpp
+Filename: ./ros-jazzy-ov-init_2.7.0-0noble.20261010.191536~git.1ea53fc.base.b7fb6f40_amd64.deb
+Size: 559520
+MD5sum: ce8e3bf34c7f037ed051a9c6fe85bdf6
+SHA1: 9106dd36041884d4533ac9822a4151ef7d73bd77
+SHA256: a5818ec61724f1a7094f7398b2bfda6f5825894d8b7f35de5c11842e49371eaa
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/open_vins/tree/1ea53fcf077011ac8ddd12e426bc1523958ab31f
+Description: Initialization package which handles static and dynamic initialization.
+Xb-Build-Date: Sat, 10 Oct 2026 19:18:22 +0000
+
+Package: ros-jazzy-ov-msckf
+Version: 2:2.7.0-0noble.20261010.191807~git.1ea53fc.base.bff57216
+Architecture: arm64
+Maintainer: "Patrick Geneva" <pgeneva@udel.edu>
+Installed-Size: 13466
+Depends: libboost-filesystem1.83.0 (>= 1.83.0), libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 4.5), libopencv-calib3d406t64 (>= 4.6.0+dfsg), libopencv-contrib406t64 (>= 4.6.0+dfsg), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-features2d406t64 (>= 4.6.0+dfsg), libopencv-imgcodecs406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libopencv-stitching406t64 (>= 4.6.0+dfsg), libstdc++6 (>= 13.1), libboost-all-dev, libceres-dev, libeigen3-dev, libopencv-contrib-dev, libopencv-dev, ros-jazzy-cv-bridge, ros-jazzy-geometry-msgs, ros-jazzy-image-transport, ros-jazzy-nav-msgs, ros-jazzy-ov-core, ros-jazzy-ov-init, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-geometry-msgs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-ov-msckf_2.7.0-0noble.20261010.191807~git.1ea53fc.base.bff57216_arm64.deb
+Size: 4002482
+MD5sum: 44723493a13035a02a2322661a2ab211
+SHA1: fa7263261d3606c16274fd014cca6228cecdddb0
+SHA256: 45759a06df80952eb5dfb66eb79db91bf3abeb5fa41f6bd9ac807a475a7fe697
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/open_vins/tree/1ea53fcf077011ac8ddd12e426bc1523958ab31f
+Description: Implementation of a type-based error-state Kalman filter.
+Xb-Build-Date: Sat, 10 Oct 2026 19:29:03 +0000
+
+Package: ros-jazzy-ov-msckf
+Version: 2:2.7.0-0noble.20261010.191825~git.1ea53fc.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Patrick Geneva" <pgeneva@udel.edu>
+Installed-Size: 13918
+Depends: libboost-filesystem1.83.0 (>= 1.83.0), libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libopencv-calib3d406t64 (>= 4.6.0+dfsg), libopencv-contrib406t64 (>= 4.6.0+dfsg), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-features2d406t64 (>= 4.6.0+dfsg), libopencv-imgcodecs406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libopencv-stitching406t64 (>= 4.6.0+dfsg), libstdc++6 (>= 13.1), libboost-all-dev, libceres-dev, libeigen3-dev, libopencv-contrib-dev, libopencv-dev, ros-jazzy-cv-bridge, ros-jazzy-geometry-msgs, ros-jazzy-image-transport, ros-jazzy-nav-msgs, ros-jazzy-ov-core, ros-jazzy-ov-init, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs, ros-jazzy-tf2-geometry-msgs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-ov-msckf_2.7.0-0noble.20261010.191825~git.1ea53fc.base.b7fb6f40_amd64.deb
+Size: 4026866
+MD5sum: a3fb273b3c8ec2a063931e87a67c1c64
+SHA1: a7ca822d5c876a4cbb6ff668b8f9c849b030c4f8
+SHA256: a1ed4d279cf0e73bfe7bb7855ff8df613d4e72157e2331d4a4ffb8d375e320e8
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/open_vins/tree/1ea53fcf077011ac8ddd12e426bc1523958ab31f
+Description: Implementation of a type-based error-state Kalman filter.
+Xb-Build-Date: Sat, 10 Oct 2026 19:24:58 +0000
+
+Package: ros-jazzy-point-lio
+Version: 2:2.0.0-0noble.20261010.210759~git.e7ff034.base.2f3b123b
+Architecture: amd64
+Maintainer: "claydergc" <dev@livoxtech.com>
+Installed-Size: 2333
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libgomp1 (>= 4.9), libpcl-common1.14 (>= 1.14.0+dfsg), libpcl-filters1.14 (>= 1.14.0+dfsg), libstdc++6 (>= 13.1), libyaml-cpp0.8 (>= 0.7.0), libeigen3-dev, ros-jazzy-backward-ros, ros-jazzy-geometry-msgs, ros-jazzy-launch, ros-jazzy-launch-ros, ros-jazzy-livox-ros-driver2, ros-jazzy-mrs-lib, ros-jazzy-nav-msgs, ros-jazzy-pcl-ros, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-point-lio_2.0.0-0noble.20261010.210759~git.e7ff034.base.2f3b123b_amd64.deb
+Size: 521670
+MD5sum: 98830b794529cca6e47d8ad7d10b940a
+SHA1: b97bbbd154c70fe3d211f47ad48362e14b2f0c6f
+SHA256: 6b425633b65b671972dc69da856c7f2b1c256d1b55d4eefac77d90a0369824ec
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/point-lio/tree/e7ff034328b263ab92b06252d91acba1dd969b6d
+Description: PointLIO
+Xb-Build-Date: Sat, 10 Oct 2026 21:10:35 +0000
+
+Package: ros-jazzy-px4
+Version: 1.17.0
+Architecture: arm64
+Maintainer: Tomas Baca <tomas.baca@fel.cvut.cz>
+Filename: ./ros-jazzy-px4_1.17.0_arm64.deb
+Size: 27503398
+MD5sum: ccfa4f6758e23f73bbd2efa17011fb92
+SHA1: 41df1514313cb9ce52c471fe89e3db4d6ae322b9
+SHA256: 6488a3b43669914f10b89a1beaf83b926e4208fc6398cbef49c27c719beab80d
+Homepage: https://github.com/ctu-mrs/px4_firmware/tree/8e67f945992e270a706e371d39b7ea7b51c55501
+Description: PX4
+Xb-Build-Date: Sat, 10 Oct 2026 17:21:44 +0000
+
+Package: ros-jazzy-px4
+Version: 1.17.0
+Architecture: amd64
+Maintainer: Tomas Baca <tomas.baca@fel.cvut.cz>
+Filename: ./ros-jazzy-px4_1.17.0_amd64.deb
+Size: 27929210
+MD5sum: c850555592f7791479f7da0a97786db3
+SHA1: 9dbd316ba9ea897b862e9c0a771decea7427ddbc
+SHA256: 19fc8d5d318492dcdaec45448ec74d92fea4fffe864ce6dbab1fde77d3b72d2b
+Homepage: https://github.com/ctu-mrs/px4_firmware/tree/8e67f945992e270a706e371d39b7ea7b51c55501
+Description: PX4
+Xb-Build-Date: Sat, 10 Oct 2026 17:15:37 +0000
+
+Package: ros-jazzy-pylon-ros2-camera-component
+Version: 2:1.1.0-0noble.20261010.203033~git.d846ac3.base.2f3b123b
+Architecture: amd64
+Maintainer: "Francois Picard" <fpi@teknologisk.dk>
+Installed-Size: 4243
+Depends: libc6 (>= 2.38), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-flann406t64 (>= 4.6.0+dfsg), libstdc++6 (>= 13.1), pylon (>= 26.08.1-deb0), codemeter, pylon-supplementary-package-for-blaze, ros-jazzy-camera-info-manager, ros-jazzy-cv-bridge, ros-jazzy-diagnostic-updater, ros-jazzy-image-geometry, ros-jazzy-image-transport, ros-jazzy-pcl-ros, ros-jazzy-pylon-ros2-camera-interfaces, ros-jazzy-rclcpp, ros-jazzy-rclcpp-action, ros-jazzy-rclcpp-components, ros-jazzy-rcutils, ros-jazzy-sensor-msgs
+Filename: ./ros-jazzy-pylon-ros2-camera-component_1.1.0-0noble.20261010.203033~git.d846ac3.base.2f3b123b_amd64.deb
+Size: 780570
+MD5sum: 8675972b7113bce6541ef5b154b2f0be
+SHA1: 6e81f771e31d318ab48129dee470411c4181e315
+SHA256: e28b3fd70c3c54a3d01dfdbf5a0cb2e0b9116384606898991792c79dfde791fd
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/pylon-ros-camera/tree/d846ac38dd639bcf036b8871da75cf6ef9aa0789
+Description: Proprietary ROS2 Package for Basler Cameras using the the Pylon API.
+ Supports DART, USB3 and GigE cameras.
+Xb-Build-Date: Sat, 10 Oct 2026 20:32:08 +0000
+
+Package: ros-jazzy-pylon-ros2-camera-interfaces
+Version: 2:1.1.0-0noble.20261010.202744~git.d846ac3.base.2f3b123b
+Architecture: amd64
+Maintainer: "Francois Picard" <fpi@teknologisk.dk>
+Installed-Size: 12455
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 11), ros-jazzy-fastcdr, ros-jazzy-action-msgs, ros-jazzy-builtin-interfaces, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-std-srvs
+Filename: ./ros-jazzy-pylon-ros2-camera-interfaces_1.1.0-0noble.20261010.202744~git.d846ac3.base.2f3b123b_amd64.deb
+Size: 708844
+MD5sum: d404794e5c0da42297649d660bc8cb44
+SHA1: 642ba00272f74e123faac2b0e649322843006f7a
+SHA256: 3bac2868d4929fee2b36d2f89a753bc8ef551b8c65a71b67f82180fbd2551f2c
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/pylon-ros-camera/tree/d846ac38dd639bcf036b8871da75cf6ef9aa0789
+Description: Interface package from the pylon_camera package.
+ Contains message, service and action definitions of the pylon_camera interface.
+Xb-Build-Date: Sat, 10 Oct 2026 20:29:01 +0000
+
+Package: ros-jazzy-pylon-ros2-camera-wrapper
+Version: 2:1.1.0-0noble.20261010.203211~git.d846ac3.base.2f3b123b
+Architecture: amd64
+Maintainer: "Francois Picard" <fpi@teknologisk.dk>
+Installed-Size: 802
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libopencv-core406t64 (>= 4.6.0+dfsg), libopencv-flann406t64 (>= 4.6.0+dfsg), libopencv-highgui406t64 (>= 4.6.0+dfsg), libopencv-imgproc406t64 (>= 4.6.0+dfsg), libstdc++6 (>= 13.1), ros-jazzy-cv-bridge, ros-jazzy-image-geometry, ros-jazzy-pylon-ros2-camera-component, ros-jazzy-rclcpp, ros-jazzy-rclcpp-components, ros-jazzy-rcutils
+Filename: ./ros-jazzy-pylon-ros2-camera-wrapper_1.1.0-0noble.20261010.203211~git.d846ac3.base.2f3b123b_amd64.deb
+Size: 153514
+MD5sum: 8566e0dd64fefbcc67fbb52551efad30
+SHA1: 2c9a5298b80307e399e4903c100758d2d8f693d5
+SHA256: c6c4b4d3b823df72d9f792d828f5a4e3a4e2fdcdf2d0735e6946d0c53424a7d1
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/pylon-ros-camera/tree/d846ac38dd639bcf036b8871da75cf6ef9aa0789
+Description: Wrapper loading pylon_ros2_camera component in a single process
+Xb-Build-Date: Sat, 10 Oct 2026 20:32:46 +0000
+
+Package: ros-jazzy-rmw-zenoh-cpp
+Version: 2:0.2.11-0noble.20261010.192145~git.49d54d1.base.bff57216
+Architecture: arm64
+Maintainer: "Yadunund" <yadunund@openrobotics.org>
+Installed-Size: 673
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), ros-jazzy-fastcdr, ros-jazzy-ament-index-cpp, ros-jazzy-rcpputils, ros-jazzy-rcutils, ros-jazzy-rmw, ros-jazzy-rosidl-typesupport-fastrtps-c, ros-jazzy-rosidl-typesupport-fastrtps-cpp, ros-jazzy-tracetools, ros-jazzy-zenoh-cpp-vendor
+Filename: ./ros-jazzy-rmw-zenoh-cpp_0.2.11-0noble.20261010.192145~git.49d54d1.base.bff57216_arm64.deb
+Size: 185616
+MD5sum: 6a7b2009e85302fea84a442069dc09c7
+SHA1: cf301e8b14d0a5a72e5e7e0a87b4693d8f8919ec
+SHA256: 012cde92da1b0d2b0b178cab7b731b7fc28d2c047da2acbed90c8d0be7cf0897
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/rmw_zenoh/tree/49d54d1bd4aa6c0838c60a3f76f7bb4dc1d70495
+Description: A ROS 2 middleware implementation using zenoh-cpp
+Xb-Build-Date: Sat, 10 Oct 2026 19:22:57 +0000
+
+Package: ros-jazzy-rmw-zenoh-cpp
+Version: 2:0.2.11-0noble.20261010.192917~git.49d54d1.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Yadunund" <yadunund@openrobotics.org>
+Installed-Size: 649
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), ros-jazzy-fastcdr, ros-jazzy-ament-index-cpp, ros-jazzy-rcpputils, ros-jazzy-rcutils, ros-jazzy-rmw, ros-jazzy-rosidl-typesupport-fastrtps-c, ros-jazzy-rosidl-typesupport-fastrtps-cpp, ros-jazzy-tracetools, ros-jazzy-zenoh-cpp-vendor
+Filename: ./ros-jazzy-rmw-zenoh-cpp_0.2.11-0noble.20261010.192917~git.49d54d1.base.b7fb6f40_amd64.deb
+Size: 196192
+MD5sum: 135ed9562c018bc4fee5728bbc801870
+SHA1: c0edad6dce438fe02890231ded53fcc1eddd3738
+SHA256: ebf7a2fc62d4392ce04d9b44470386b93c1e06496b22893781439c1e9d49c17f
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/rmw_zenoh/tree/49d54d1bd4aa6c0838c60a3f76f7bb4dc1d70495
+Description: A ROS 2 middleware implementation using zenoh-cpp
+Xb-Build-Date: Sat, 10 Oct 2026 19:29:53 +0000
+
+Package: ros-jazzy-test-rmw-zenoh-cpp
+Version: 2:0.2.11-0noble.20261010.192301~git.49d54d1.base.bff57216
+Architecture: arm64
+Maintainer: "Yuyuan" <yu-yuan.yuan@zettascale.tech>
+Installed-Size: 41
+Filename: ./ros-jazzy-test-rmw-zenoh-cpp_0.2.11-0noble.20261010.192301~git.49d54d1.base.bff57216_arm64.deb
+Size: 5080
+MD5sum: f410856648150e6d7a17a7fd82851dfa
+SHA1: a5d211ab09d7da52c4a84857fdd8841863f64b27
+SHA256: 49dc6c7e562496acb94e54c35f766397cad9edf67e84545b37ba9a082a45c4e6
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/rmw_zenoh/tree/49d54d1bd4aa6c0838c60a3f76f7bb4dc1d70495
+Description: Test package for rmw_zenoh_cpp that uses rclcpp
+Xb-Build-Date: Sat, 10 Oct 2026 19:23:05 +0000
+
+Package: ros-jazzy-test-rmw-zenoh-cpp
+Version: 2:0.2.11-0noble.20261010.193022~git.49d54d1.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Yuyuan" <yu-yuan.yuan@zettascale.tech>
+Installed-Size: 41
+Filename: ./ros-jazzy-test-rmw-zenoh-cpp_0.2.11-0noble.20261010.193022~git.49d54d1.base.b7fb6f40_amd64.deb
+Size: 5068
+MD5sum: c614b1aa4f9ab4faa3dde2eca22e222a
+SHA1: 2169a21398d06c7d0e1c403eadf131f268ddae19
+SHA256: bc5af2cae3f56671d9ce22415f861b8553aa12548ea5304e7305ede15c6f7eef
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/rmw_zenoh/tree/49d54d1bd4aa6c0838c60a3f76f7bb4dc1d70495
+Description: Test package for rmw_zenoh_cpp that uses rclcpp
+Xb-Build-Date: Sat, 10 Oct 2026 19:30:27 +0000
+
+Package: ros-jazzy-zenoh-cpp-vendor
+Version: 2:0.2.11-0noble.20261010.190842~git.49d54d1.base.bff57216
+Architecture: arm64
+Maintainer: "Yadunund" <yadunund@openrobotics.org>
+Installed-Size: 52499
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.2)
+Filename: ./ros-jazzy-zenoh-cpp-vendor_0.2.11-0noble.20261010.190842~git.49d54d1.base.bff57216_arm64.deb
+Size: 10821178
+MD5sum: db59f7228dbd89c601025a2242fcaa95
+SHA1: b795c00878a396d9f112561c0afeb276383f9e0c
+SHA256: 12d6d374289e63a61d17af6ce01ac61f9b6d1700431fd90955eb09d81037b5ef
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/rmw_zenoh/tree/49d54d1bd4aa6c0838c60a3f76f7bb4dc1d70495
+Description: Vendor pkg to install zenoh-cpp
+Xb-Build-Date: Sat, 10 Oct 2026 19:21:02 +0000
+
+Package: ros-jazzy-zenoh-cpp-vendor
+Version: 2:0.2.11-0noble.20261010.191405~git.49d54d1.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Yadunund" <yadunund@openrobotics.org>
+Installed-Size: 52738
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.2)
+Filename: ./ros-jazzy-zenoh-cpp-vendor_0.2.11-0noble.20261010.191405~git.49d54d1.base.b7fb6f40_amd64.deb
+Size: 10926062
+MD5sum: 445f44ae3062c111cebaa1c22679597c
+SHA1: c01fbbd4b752ab871f1adcc92efee0f0106a9739
+SHA256: dce364fbae740cbed60143683bfb188f5c8eabbb2fd35ad3a64e3256fb36ac0d
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/rmw_zenoh/tree/49d54d1bd4aa6c0838c60a3f76f7bb4dc1d70495
+Description: Vendor pkg to install zenoh-cpp
+Xb-Build-Date: Sat, 10 Oct 2026 19:29:01 +0000
+
+Package: ros-jazzy-zenoh-security-tools
+Version: 2:0.2.11-0noble.20261010.192122~git.49d54d1.base.bff57216
+Architecture: arm64
+Maintainer: "Alejandro Hernanadez" <alejandro@openrobotics.org>
+Installed-Size: 239
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libtinyxml2-10 (>= 10.0.0), ros-jazzy-rcpputils, ros-jazzy-rcutils, ros-jazzy-rmw-dds-common, ros-jazzy-tinyxml2-vendor, ros-jazzy-zenoh-cpp-vendor
+Filename: ./ros-jazzy-zenoh-security-tools_0.2.11-0noble.20261010.192122~git.49d54d1.base.bff57216_arm64.deb
+Size: 77376
+MD5sum: 16a0a211d3c1d2fe7742688cdc5f2f55
+SHA1: 33ec15edcb5d7c9bc6d2cbd0409831a417f52e7c
+SHA256: 36e0c33fd3ccf84af5f037d2dacdb3db0a5905d8bf5b414a6d056f22a527227b
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/rmw_zenoh/tree/49d54d1bd4aa6c0838c60a3f76f7bb4dc1d70495
+Description: This package generates config files to enforce security with Zenoh
+Xb-Build-Date: Sat, 10 Oct 2026 19:21:42 +0000
+
+Package: ros-jazzy-zenoh-security-tools
+Version: 2:0.2.11-0noble.20261010.193001~git.49d54d1.base.b7fb6f40
+Architecture: amd64
+Maintainer: "Alejandro Hernanadez" <alejandro@openrobotics.org>
+Installed-Size: 259
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 13.1), libtinyxml2-10 (>= 10.0.0), ros-jazzy-rcpputils, ros-jazzy-rcutils, ros-jazzy-rmw-dds-common, ros-jazzy-tinyxml2-vendor, ros-jazzy-zenoh-cpp-vendor
+Filename: ./ros-jazzy-zenoh-security-tools_0.2.11-0noble.20261010.193001~git.49d54d1.base.b7fb6f40_amd64.deb
+Size: 83298
+MD5sum: 85da57515bc6c5d9f521dc293c9fdddc
+SHA1: 1f24c70da35669c2dd8dba79bcc894c18c260422
+SHA256: 0fcda6e62f4c25374a4f6078cb34af9d9ae40ec1216d39a06724baf623b05bf4
+Section: misc
+Priority: optional
+Homepage: https://github.com/ctu-mrs/rmw_zenoh/tree/49d54d1bd4aa6c0838c60a3f76f7bb4dc1d70495
+Description: This package generates config files to enforce security with Zenoh
+Xb-Build-Date: Sat, 10 Oct 2026 19:30:19 +0000
+

@@ -1,0 +1,4 @@
+yaml https://ctu-mrs.github.io/ppa2-testing/generated_mrs_arm64.yaml
+yaml https://ctu-mrs.github.io/ppa2-testing/generated_thirdparty_arm64.yaml
+yaml https://ctu-mrs.github.io/ppa2-testing/handcrafted_arm64.yaml
+yaml https://ctu-mrs.github.io/ppa2-testing/handcrafted_common.yaml
