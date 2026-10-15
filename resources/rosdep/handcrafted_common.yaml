@@ -33,6 +33,10 @@ glslang-tools:
 mrs-libsdbus-c++:
   ubuntu: [mrs-libsdbus-c++]
 
+# for mrs_uav_wifi_direct
+mrs-uav-wifi-direct-support:
+  ubuntu: [mrs-uav-wifi-direct-support]
+
 # for pylon Basler camera packages
 pylon:
   ubuntu: [pylon]
